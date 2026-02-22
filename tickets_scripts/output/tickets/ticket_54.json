@@ -1,0 +1,42 @@
+{
+  "id": 54,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Love in Slow Motion",
+      "artists": "Ed Sheeran"
+    },
+    {
+      "title": "K La Meteo",
+      "artists": "What's UP feat. Andra"
+    },
+    {
+      "title": "Bad Romance",
+      "artists": "Lady Gaga"
+    },
+    {
+      "title": "Inainte Sa Ne Fi Nascut",
+      "artists": "The Motans"
+    },
+    {
+      "title": "Caliente",
+      "artists": "INNA"
+    },
+    {
+      "title": "One Day",
+      "artists": "ARASH feat. Helena"
+    },
+    {
+      "title": "Lav Stori",
+      "artists": "Fara Zahar"
+    },
+    {
+      "title": "Young and Beautiful",
+      "artists": "Lana Del Rey"
+    },
+    {
+      "title": "Fire",
+      "artists": "BTS"
+    }
+  ]
+}

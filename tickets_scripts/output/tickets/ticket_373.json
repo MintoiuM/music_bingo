@@ -1,0 +1,42 @@
+{
+  "id": 373,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "High Hopes",
+      "artists": "Panic! At The Disco"
+    },
+    {
+      "title": "Dance Again",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "Let's Get Loud",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "L'enfer",
+      "artists": "Stromae"
+    },
+    {
+      "title": "K La Meteo",
+      "artists": "What's UP feat. Andra"
+    },
+    {
+      "title": "Ten Seconds to Love",
+      "artists": "Motley Crue"
+    },
+    {
+      "title": "Ultima noapte de dragoste",
+      "artists": "Calinacho"
+    },
+    {
+      "title": "Love in Slow Motion",
+      "artists": "Ed Sheeran"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    }
+  ]
+}

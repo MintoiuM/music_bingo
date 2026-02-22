@@ -1,0 +1,42 @@
+{
+  "id": 165,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Caliente",
+      "artists": "INNA"
+    },
+    {
+      "title": "High Hopes",
+      "artists": "Panic! At The Disco"
+    },
+    {
+      "title": "Fire",
+      "artists": "BTS"
+    },
+    {
+      "title": "Crying in the Club",
+      "artists": "Camila Cabello"
+    },
+    {
+      "title": "Inainte Sa Ne Fi Nascut",
+      "artists": "The Motans"
+    },
+    {
+      "title": "Bad Romance",
+      "artists": "Lady Gaga"
+    },
+    {
+      "title": "Imperfect",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    },
+    {
+      "title": "Let's Get Loud",
+      "artists": "Jennifer Lopez"
+    }
+  ]
+}

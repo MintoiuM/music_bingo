@@ -1,0 +1,42 @@
+{
+  "id": 53,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Lav Stori",
+      "artists": "Fara Zahar"
+    },
+    {
+      "title": "L'enfer",
+      "artists": "Stromae"
+    },
+    {
+      "title": "High Hopes",
+      "artists": "Panic! At The Disco"
+    },
+    {
+      "title": "Imperfect",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "K La Meteo",
+      "artists": "What's UP feat. Andra"
+    },
+    {
+      "title": "Love in Slow Motion",
+      "artists": "Ed Sheeran"
+    },
+    {
+      "title": "Crying in the Club",
+      "artists": "Camila Cabello"
+    },
+    {
+      "title": "Picatura de cerneala",
+      "artists": "Iuliana Beregoi x Cristian Porcari"
+    },
+    {
+      "title": "One Day",
+      "artists": "ARASH feat. Helena"
+    }
+  ]
+}

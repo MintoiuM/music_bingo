@@ -1,0 +1,42 @@
+{
+  "id": 174,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "High Hopes",
+      "artists": "Panic! At The Disco"
+    },
+    {
+      "title": "Ten Seconds to Love",
+      "artists": "Motley Crue"
+    },
+    {
+      "title": "Dance Again",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "Titi Me Pregunto",
+      "artists": "Bad Bunny"
+    },
+    {
+      "title": "Bad Romance",
+      "artists": "Lady Gaga"
+    },
+    {
+      "title": "Limousine",
+      "artists": "Little Sis Nora"
+    },
+    {
+      "title": "Lav Stori",
+      "artists": "Fara Zahar"
+    },
+    {
+      "title": "Inainte Sa Ne Fi Nascut",
+      "artists": "The Motans"
+    },
+    {
+      "title": "Young and Beautiful",
+      "artists": "Lana Del Rey"
+    }
+  ]
+}

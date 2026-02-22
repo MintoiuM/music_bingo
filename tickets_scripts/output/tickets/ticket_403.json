@@ -1,0 +1,42 @@
+{
+  "id": 403,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Caliente",
+      "artists": "INNA"
+    },
+    {
+      "title": "High Hopes",
+      "artists": "Panic! At The Disco"
+    },
+    {
+      "title": "Ultima noapte de dragoste",
+      "artists": "Calinacho"
+    },
+    {
+      "title": "Fire",
+      "artists": "BTS"
+    },
+    {
+      "title": "Limousine",
+      "artists": "Little Sis Nora"
+    },
+    {
+      "title": "Imperfect",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "K La Meteo",
+      "artists": "What's UP feat. Andra"
+    },
+    {
+      "title": "Inainte Sa Ne Fi Nascut",
+      "artists": "The Motans"
+    },
+    {
+      "title": "One Day",
+      "artists": "ARASH feat. Helena"
+    }
+  ]
+}

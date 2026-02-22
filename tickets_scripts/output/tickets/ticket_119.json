@@ -1,0 +1,42 @@
+{
+  "id": 119,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Caliente",
+      "artists": "INNA"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    },
+    {
+      "title": "Let's Get Loud",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "Bad Romance",
+      "artists": "Lady Gaga"
+    },
+    {
+      "title": "K La Meteo",
+      "artists": "What's UP feat. Andra"
+    },
+    {
+      "title": "High Hopes",
+      "artists": "Panic! At The Disco"
+    },
+    {
+      "title": "Lav Stori",
+      "artists": "Fara Zahar"
+    },
+    {
+      "title": "Inainte Sa Ne Fi Nascut",
+      "artists": "The Motans"
+    },
+    {
+      "title": "Ultima noapte de dragoste",
+      "artists": "Calinacho"
+    }
+  ]
+}

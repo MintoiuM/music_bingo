@@ -1,0 +1,501 @@
+Ticket #ID,Începând de la a câta piesa este linie?,Începând de la a câta piesă este Bingo?,Song 1,Song 2,Song 3,Song 4,Song 5,Song 6,Song 7,Song 8,Song 9
+1,15,23,16. Dance Again,15. Let's Get Loud,13. Bad Romance,23. Acele,9. The Winner Takes It All,5. Titi Me Pregunto,19. Limousine,8. High Hopes,21. Inainte Sa Ne Fi Nascut
+2,18,22,18. Crying in the Club,16. Dance Again,17. One Day,8. High Hopes,4. Fire,21. Inainte Sa Ne Fi Nascut,12. L'enfer,22. Imperfect,9. The Winner Takes It All
+3,14,22,2. Ten Seconds to Love,18. Crying in the Club,5. Titi Me Pregunto,1. Ultima noapte de dragoste,6. Lush Life,14. Young and Beautiful,20. Caliente,22. Imperfect,10. Love in Slow Motion
+4,12,21,6. Lush Life,2. Ten Seconds to Love,12. L'enfer,9. The Winner Takes It All,14. Young and Beautiful,15. Let's Get Loud,21. Inainte Sa Ne Fi Nascut,19. Limousine,1. Ultima noapte de dragoste
+5,12,22,20. Caliente,22. Imperfect,18. Crying in the Club,19. Limousine,4. Fire,21. Inainte Sa Ne Fi Nascut,9. The Winner Takes It All,12. L'enfer,2. Ten Seconds to Love
+6,14,20,20. Caliente,7. Picatura de cerneala,19. Limousine,5. Titi Me Pregunto,15. Let's Get Loud,17. One Day,3. Lav Stori,1. Ultima noapte de dragoste,14. Young and Beautiful
+7,12,23,15. Let's Get Loud,6. Lush Life,7. Picatura de cerneala,23. Acele,17. One Day,12. L'enfer,5. Titi Me Pregunto,14. Young and Beautiful,2. Ten Seconds to Love
+8,7,23,8. High Hopes,13. Bad Romance,21. Inainte Sa Ne Fi Nascut,4. Fire,3. Lav Stori,7. Picatura de cerneala,23. Acele,2. Ten Seconds to Love,5. Titi Me Pregunto
+9,17,23,13. Bad Romance,21. Inainte Sa Ne Fi Nascut,4. Fire,18. Crying in the Club,23. Acele,14. Young and Beautiful,3. Lav Stori,22. Imperfect,17. One Day
+10,7,23,6. Lush Life,4. Fire,7. Picatura de cerneala,1. Ultima noapte de dragoste,20. Caliente,9. The Winner Takes It All,17. One Day,23. Acele,3. Lav Stori
+11,18,21,15. Let's Get Loud,14. Young and Beautiful,21. Inainte Sa Ne Fi Nascut,11. K La Meteo,18. Crying in the Club,20. Caliente,19. Limousine,1. Ultima noapte de dragoste,5. Titi Me Pregunto
+12,12,22,12. L'enfer,1. Ultima noapte de dragoste,3. Lav Stori,8. High Hopes,15. Let's Get Loud,14. Young and Beautiful,22. Imperfect,10. Love in Slow Motion,9. The Winner Takes It All
+13,16,23,10. Love in Slow Motion,14. Young and Beautiful,17. One Day,18. Crying in the Club,16. Dance Again,8. High Hopes,23. Acele,9. The Winner Takes It All,20. Caliente
+14,9,22,16. Dance Again,6. Lush Life,5. Titi Me Pregunto,12. L'enfer,18. Crying in the Club,9. The Winner Takes It All,19. Limousine,22. Imperfect,3. Lav Stori
+15,13,21,21. Inainte Sa Ne Fi Nascut,17. One Day,8. High Hopes,6. Lush Life,4. Fire,13. Bad Romance,20. Caliente,18. Crying in the Club,5. Titi Me Pregunto
+16,14,20,15. Let's Get Loud,17. One Day,13. Bad Romance,8. High Hopes,10. Love in Slow Motion,20. Caliente,5. Titi Me Pregunto,2. Ten Seconds to Love,14. Young and Beautiful
+17,11,21,21. Inainte Sa Ne Fi Nascut,11. K La Meteo,12. L'enfer,14. Young and Beautiful,7. Picatura de cerneala,2. Ten Seconds to Love,5. Titi Me Pregunto,10. Love in Slow Motion,13. Bad Romance
+18,17,22,10. Love in Slow Motion,20. Caliente,13. Bad Romance,11. K La Meteo,16. Dance Again,17. One Day,18. Crying in the Club,22. Imperfect,9. The Winner Takes It All
+19,10,23,3. Lav Stori,10. Love in Slow Motion,6. Lush Life,15. Let's Get Loud,14. Young and Beautiful,18. Crying in the Club,23. Acele,22. Imperfect,7. Picatura de cerneala
+20,14,22,17. One Day,11. K La Meteo,14. Young and Beautiful,15. Let's Get Loud,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,22. Imperfect,20. Caliente,12. L'enfer
+21,6,22,5. Titi Me Pregunto,3. Lav Stori,6. Lush Life,14. Young and Beautiful,20. Caliente,10. Love in Slow Motion,11. K La Meteo,22. Imperfect,18. Crying in the Club
+22,18,23,18. Crying in the Club,17. One Day,3. Lav Stori,23. Acele,1. Ultima noapte de dragoste,11. K La Meteo,2. Ten Seconds to Love,22. Imperfect,21. Inainte Sa Ne Fi Nascut
+23,17,22,10. Love in Slow Motion,7. Picatura de cerneala,17. One Day,20. Caliente,9. The Winner Takes It All,3. Lav Stori,11. K La Meteo,22. Imperfect,19. Limousine
+24,17,23,1. Ultima noapte de dragoste,16. Dance Again,21. Inainte Sa Ne Fi Nascut,5. Titi Me Pregunto,23. Acele,13. Bad Romance,17. One Day,18. Crying in the Club,10. Love in Slow Motion
+25,17,23,23. Acele,6. Lush Life,13. Bad Romance,9. The Winner Takes It All,20. Caliente,8. High Hopes,11. K La Meteo,4. Fire,17. One Day
+26,16,22,22. Imperfect,19. Limousine,9. The Winner Takes It All,11. K La Meteo,6. Lush Life,16. Dance Again,17. One Day,21. Inainte Sa Ne Fi Nascut,20. Caliente
+27,12,22,11. K La Meteo,14. Young and Beautiful,19. Limousine,6. Lush Life,18. Crying in the Club,16. Dance Again,12. L'enfer,22. Imperfect,4. Fire
+28,15,20,19. Limousine,9. The Winner Takes It All,1. Ultima noapte de dragoste,12. L'enfer,18. Crying in the Club,20. Caliente,7. Picatura de cerneala,15. Let's Get Loud,11. K La Meteo
+29,14,21,21. Inainte Sa Ne Fi Nascut,8. High Hopes,11. K La Meteo,5. Titi Me Pregunto,14. Young and Beautiful,4. Fire,13. Bad Romance,6. Lush Life,16. Dance Again
+30,8,23,1. Ultima noapte de dragoste,10. Love in Slow Motion,6. Lush Life,9. The Winner Takes It All,23. Acele,7. Picatura de cerneala,4. Fire,21. Inainte Sa Ne Fi Nascut,8. High Hopes
+31,14,23,17. One Day,23. Acele,15. Let's Get Loud,14. Young and Beautiful,6. Lush Life,11. K La Meteo,19. Limousine,5. Titi Me Pregunto,22. Imperfect
+32,14,22,20. Caliente,17. One Day,8. High Hopes,14. Young and Beautiful,3. Lav Stori,13. Bad Romance,22. Imperfect,11. K La Meteo,16. Dance Again
+33,9,23,3. Lav Stori,9. The Winner Takes It All,5. Titi Me Pregunto,18. Crying in the Club,23. Acele,15. Let's Get Loud,13. Bad Romance,2. Ten Seconds to Love,16. Dance Again
+34,11,21,2. Ten Seconds to Love,11. K La Meteo,9. The Winner Takes It All,10. Love in Slow Motion,17. One Day,18. Crying in the Club,21. Inainte Sa Ne Fi Nascut,4. Fire,8. High Hopes
+35,17,21,4. Fire,2. Ten Seconds to Love,20. Caliente,17. One Day,13. Bad Romance,5. Titi Me Pregunto,12. L'enfer,21. Inainte Sa Ne Fi Nascut,1. Ultima noapte de dragoste
+36,17,23,17. One Day,16. Dance Again,13. Bad Romance,5. Titi Me Pregunto,23. Acele,10. Love in Slow Motion,18. Crying in the Club,1. Ultima noapte de dragoste,22. Imperfect
+37,13,23,7. Picatura de cerneala,6. Lush Life,21. Inainte Sa Ne Fi Nascut,17. One Day,23. Acele,15. Let's Get Loud,8. High Hopes,2. Ten Seconds to Love,13. Bad Romance
+38,6,19,8. High Hopes,7. Picatura de cerneala,6. Lush Life,12. L'enfer,11. K La Meteo,5. Titi Me Pregunto,19. Limousine,14. Young and Beautiful,1. Ultima noapte de dragoste
+39,7,18,12. L'enfer,13. Bad Romance,5. Titi Me Pregunto,18. Crying in the Club,14. Young and Beautiful,7. Picatura de cerneala,3. Lav Stori,10. Love in Slow Motion,1. Ultima noapte de dragoste
+40,10,23,10. Love in Slow Motion,21. Inainte Sa Ne Fi Nascut,6. Lush Life,5. Titi Me Pregunto,7. Picatura de cerneala,17. One Day,9. The Winner Takes It All,23. Acele,16. Dance Again
+41,14,21,21. Inainte Sa Ne Fi Nascut,14. Young and Beautiful,8. High Hopes,15. Let's Get Loud,6. Lush Life,5. Titi Me Pregunto,19. Limousine,9. The Winner Takes It All,16. Dance Again
+42,8,22,10. Love in Slow Motion,12. L'enfer,8. High Hopes,15. Let's Get Loud,22. Imperfect,2. Ten Seconds to Love,13. Bad Romance,6. Lush Life,5. Titi Me Pregunto
+43,14,20,6. Lush Life,16. Dance Again,20. Caliente,2. Ten Seconds to Love,14. Young and Beautiful,5. Titi Me Pregunto,19. Limousine,8. High Hopes,13. Bad Romance
+44,13,23,18. Crying in the Club,22. Imperfect,6. Lush Life,23. Acele,15. Let's Get Loud,16. Dance Again,10. Love in Slow Motion,13. Bad Romance,1. Ultima noapte de dragoste
+45,15,23,5. Titi Me Pregunto,12. L'enfer,21. Inainte Sa Ne Fi Nascut,23. Acele,19. Limousine,6. Lush Life,13. Bad Romance,2. Ten Seconds to Love,15. Let's Get Loud
+46,20,22,20. Caliente,4. Fire,7. Picatura de cerneala,5. Titi Me Pregunto,21. Inainte Sa Ne Fi Nascut,16. Dance Again,3. Lav Stori,14. Young and Beautiful,22. Imperfect
+47,8,21,14. Young and Beautiful,19. Limousine,21. Inainte Sa Ne Fi Nascut,2. Ten Seconds to Love,12. L'enfer,9. The Winner Takes It All,8. High Hopes,3. Lav Stori,7. Picatura de cerneala
+48,9,23,1. Ultima noapte de dragoste,23. Acele,11. K La Meteo,6. Lush Life,7. Picatura de cerneala,9. The Winner Takes It All,15. Let's Get Loud,16. Dance Again,21. Inainte Sa Ne Fi Nascut
+49,15,23,5. Titi Me Pregunto,7. Picatura de cerneala,23. Acele,13. Bad Romance,6. Lush Life,17. One Day,15. Let's Get Loud,22. Imperfect,11. K La Meteo
+50,14,23,17. One Day,12. L'enfer,9. The Winner Takes It All,6. Lush Life,18. Crying in the Club,14. Young and Beautiful,16. Dance Again,23. Acele,3. Lav Stori
+51,14,23,18. Crying in the Club,13. Bad Romance,3. Lav Stori,6. Lush Life,19. Limousine,14. Young and Beautiful,7. Picatura de cerneala,23. Acele,8. High Hopes
+52,11,21,21. Inainte Sa Ne Fi Nascut,12. L'enfer,19. Limousine,17. One Day,6. Lush Life,20. Caliente,11. K La Meteo,1. Ultima noapte de dragoste,5. Titi Me Pregunto
+53,12,22,3. Lav Stori,12. L'enfer,8. High Hopes,22. Imperfect,11. K La Meteo,10. Love in Slow Motion,18. Crying in the Club,7. Picatura de cerneala,17. One Day
+54,13,21,10. Love in Slow Motion,11. K La Meteo,13. Bad Romance,21. Inainte Sa Ne Fi Nascut,20. Caliente,17. One Day,3. Lav Stori,14. Young and Beautiful,4. Fire
+55,14,23,20. Caliente,12. L'enfer,16. Dance Again,19. Limousine,23. Acele,8. High Hopes,5. Titi Me Pregunto,14. Young and Beautiful,3. Lav Stori
+56,19,23,12. L'enfer,19. Limousine,5. Titi Me Pregunto,16. Dance Again,23. Acele,8. High Hopes,21. Inainte Sa Ne Fi Nascut,9. The Winner Takes It All,20. Caliente
+57,9,22,7. Picatura de cerneala,4. Fire,10. Love in Slow Motion,18. Crying in the Club,9. The Winner Takes It All,22. Imperfect,3. Lav Stori,1. Ultima noapte de dragoste,15. Let's Get Loud
+58,13,21,9. The Winner Takes It All,18. Crying in the Club,5. Titi Me Pregunto,21. Inainte Sa Ne Fi Nascut,6. Lush Life,19. Limousine,13. Bad Romance,10. Love in Slow Motion,8. High Hopes
+59,6,14,5. Titi Me Pregunto,3. Lav Stori,6. Lush Life,11. K La Meteo,14. Young and Beautiful,1. Ultima noapte de dragoste,4. Fire,10. Love in Slow Motion,13. Bad Romance
+60,12,19,13. Bad Romance,19. Limousine,8. High Hopes,14. Young and Beautiful,1. Ultima noapte de dragoste,5. Titi Me Pregunto,16. Dance Again,4. Fire,12. L'enfer
+61,18,22,19. Limousine,22. Imperfect,21. Inainte Sa Ne Fi Nascut,15. Let's Get Loud,20. Caliente,8. High Hopes,18. Crying in the Club,17. One Day,12. L'enfer
+62,12,20,3. Lav Stori,14. Young and Beautiful,20. Caliente,19. Limousine,7. Picatura de cerneala,18. Crying in the Club,12. L'enfer,11. K La Meteo,8. High Hopes
+63,9,21,13. Bad Romance,14. Young and Beautiful,19. Limousine,3. Lav Stori,9. The Winner Takes It All,8. High Hopes,11. K La Meteo,21. Inainte Sa Ne Fi Nascut,16. Dance Again
+64,8,22,8. High Hopes,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,2. Ten Seconds to Love,12. L'enfer,22. Imperfect,4. Fire,9. The Winner Takes It All,18. Crying in the Club
+65,10,22,3. Lav Stori,20. Caliente,22. Imperfect,10. Love in Slow Motion,8. High Hopes,1. Ultima noapte de dragoste,12. L'enfer,21. Inainte Sa Ne Fi Nascut,16. Dance Again
+66,7,23,5. Titi Me Pregunto,7. Picatura de cerneala,3. Lav Stori,21. Inainte Sa Ne Fi Nascut,23. Acele,16. Dance Again,19. Limousine,15. Let's Get Loud,4. Fire
+67,13,18,9. The Winner Takes It All,17. One Day,14. Young and Beautiful,3. Lav Stori,7. Picatura de cerneala,13. Bad Romance,18. Crying in the Club,2. Ten Seconds to Love,4. Fire
+68,17,22,17. One Day,10. Love in Slow Motion,14. Young and Beautiful,20. Caliente,21. Inainte Sa Ne Fi Nascut,16. Dance Again,13. Bad Romance,18. Crying in the Club,22. Imperfect
+69,17,22,17. One Day,8. High Hopes,7. Picatura de cerneala,22. Imperfect,18. Crying in the Club,21. Inainte Sa Ne Fi Nascut,20. Caliente,12. L'enfer,15. Let's Get Loud
+70,11,22,13. Bad Romance,8. High Hopes,12. L'enfer,17. One Day,7. Picatura de cerneala,22. Imperfect,14. Young and Beautiful,11. K La Meteo,19. Limousine
+71,12,22,17. One Day,22. Imperfect,3. Lav Stori,16. Dance Again,11. K La Meteo,12. L'enfer,21. Inainte Sa Ne Fi Nascut,2. Ten Seconds to Love,1. Ultima noapte de dragoste
+72,15,23,22. Imperfect,12. L'enfer,15. Let's Get Loud,4. Fire,19. Limousine,10. Love in Slow Motion,23. Acele,8. High Hopes,1. Ultima noapte de dragoste
+73,12,20,10. Love in Slow Motion,14. Young and Beautiful,20. Caliente,12. L'enfer,3. Lav Stori,6. Lush Life,19. Limousine,17. One Day,8. High Hopes
+74,12,23,12. L'enfer,4. Fire,10. Love in Slow Motion,16. Dance Again,11. K La Meteo,23. Acele,9. The Winner Takes It All,20. Caliente,6. Lush Life
+75,16,23,15. Let's Get Loud,23. Acele,17. One Day,16. Dance Again,3. Lav Stori,1. Ultima noapte de dragoste,19. Limousine,2. Ten Seconds to Love,21. Inainte Sa Ne Fi Nascut
+76,8,23,5. Titi Me Pregunto,3. Lav Stori,8. High Hopes,15. Let's Get Loud,16. Dance Again,19. Limousine,23. Acele,20. Caliente,11. K La Meteo
+77,10,23,22. Imperfect,19. Limousine,23. Acele,9. The Winner Takes It All,6. Lush Life,10. Love in Slow Motion,14. Young and Beautiful,17. One Day,13. Bad Romance
+78,9,22,9. The Winner Takes It All,4. Fire,7. Picatura de cerneala,10. Love in Slow Motion,22. Imperfect,17. One Day,2. Ten Seconds to Love,12. L'enfer,6. Lush Life
+79,15,23,14. Young and Beautiful,19. Limousine,9. The Winner Takes It All,23. Acele,7. Picatura de cerneala,18. Crying in the Club,15. Let's Get Loud,12. L'enfer,3. Lav Stori
+80,12,22,18. Crying in the Club,17. One Day,16. Dance Again,11. K La Meteo,12. L'enfer,10. Love in Slow Motion,1. Ultima noapte de dragoste,22. Imperfect,15. Let's Get Loud
+81,9,18,18. Crying in the Club,11. K La Meteo,13. Bad Romance,12. L'enfer,1. Ultima noapte de dragoste,3. Lav Stori,4. Fire,5. Titi Me Pregunto,9. The Winner Takes It All
+82,14,22,14. Young and Beautiful,10. Love in Slow Motion,6. Lush Life,2. Ten Seconds to Love,5. Titi Me Pregunto,18. Crying in the Club,16. Dance Again,22. Imperfect,3. Lav Stori
+83,17,21,2. Ten Seconds to Love,20. Caliente,13. Bad Romance,9. The Winner Takes It All,12. L'enfer,17. One Day,18. Crying in the Club,21. Inainte Sa Ne Fi Nascut,16. Dance Again
+84,21,23,17. One Day,1. Ultima noapte de dragoste,22. Imperfect,23. Acele,3. Lav Stori,19. Limousine,16. Dance Again,21. Inainte Sa Ne Fi Nascut,15. Let's Get Loud
+85,7,21,1. Ultima noapte de dragoste,11. K La Meteo,17. One Day,7. Picatura de cerneala,3. Lav Stori,19. Limousine,6. Lush Life,21. Inainte Sa Ne Fi Nascut,8. High Hopes
+86,18,23,12. L'enfer,3. Lav Stori,18. Crying in the Club,23. Acele,14. Young and Beautiful,16. Dance Again,1. Ultima noapte de dragoste,20. Caliente,19. Limousine
+87,9,23,14. Young and Beautiful,2. Ten Seconds to Love,7. Picatura de cerneala,12. L'enfer,6. Lush Life,23. Acele,10. Love in Slow Motion,9. The Winner Takes It All,8. High Hopes
+88,8,21,8. High Hopes,7. Picatura de cerneala,2. Ten Seconds to Love,1. Ultima noapte de dragoste,18. Crying in the Club,17. One Day,21. Inainte Sa Ne Fi Nascut,13. Bad Romance,16. Dance Again
+89,13,21,16. Dance Again,12. L'enfer,17. One Day,14. Young and Beautiful,13. Bad Romance,21. Inainte Sa Ne Fi Nascut,18. Crying in the Club,5. Titi Me Pregunto,2. Ten Seconds to Love
+90,17,23,14. Young and Beautiful,22. Imperfect,2. Ten Seconds to Love,1. Ultima noapte de dragoste,4. Fire,17. One Day,19. Limousine,23. Acele,20. Caliente
+91,16,23,1. Ultima noapte de dragoste,8. High Hopes,16. Dance Again,23. Acele,14. Young and Beautiful,6. Lush Life,5. Titi Me Pregunto,18. Crying in the Club,17. One Day
+92,14,23,22. Imperfect,5. Titi Me Pregunto,8. High Hopes,20. Caliente,23. Acele,16. Dance Again,10. Love in Slow Motion,13. Bad Romance,14. Young and Beautiful
+93,11,22,10. Love in Slow Motion,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,11. K La Meteo,22. Imperfect,8. High Hopes,7. Picatura de cerneala,13. Bad Romance,19. Limousine
+94,14,23,23. Acele,2. Ten Seconds to Love,4. Fire,17. One Day,9. The Winner Takes It All,21. Inainte Sa Ne Fi Nascut,22. Imperfect,14. Young and Beautiful,8. High Hopes
+95,19,23,19. Limousine,4. Fire,18. Crying in the Club,3. Lav Stori,13. Bad Romance,20. Caliente,14. Young and Beautiful,23. Acele,7. Picatura de cerneala
+96,12,23,19. Limousine,21. Inainte Sa Ne Fi Nascut,7. Picatura de cerneala,3. Lav Stori,12. L'enfer,8. High Hopes,1. Ultima noapte de dragoste,17. One Day,23. Acele
+97,14,21,14. Young and Beautiful,8. High Hopes,11. K La Meteo,9. The Winner Takes It All,18. Crying in the Club,17. One Day,13. Bad Romance,21. Inainte Sa Ne Fi Nascut,5. Titi Me Pregunto
+98,10,23,7. Picatura de cerneala,17. One Day,22. Imperfect,10. Love in Slow Motion,2. Ten Seconds to Love,16. Dance Again,8. High Hopes,6. Lush Life,23. Acele
+99,14,21,14. Young and Beautiful,2. Ten Seconds to Love,11. K La Meteo,21. Inainte Sa Ne Fi Nascut,6. Lush Life,16. Dance Again,20. Caliente,15. Let's Get Loud,8. High Hopes
+100,13,21,1. Ultima noapte de dragoste,19. Limousine,16. Dance Again,15. Let's Get Loud,21. Inainte Sa Ne Fi Nascut,18. Crying in the Club,5. Titi Me Pregunto,4. Fire,13. Bad Romance
+101,6,23,4. Fire,19. Limousine,16. Dance Again,6. Lush Life,18. Crying in the Club,17. One Day,5. Titi Me Pregunto,3. Lav Stori,23. Acele
+102,10,22,17. One Day,1. Ultima noapte de dragoste,14. Young and Beautiful,10. Love in Slow Motion,6. Lush Life,2. Ten Seconds to Love,4. Fire,22. Imperfect,8. High Hopes
+103,14,23,5. Titi Me Pregunto,16. Dance Again,15. Let's Get Loud,23. Acele,3. Lav Stori,1. Ultima noapte de dragoste,4. Fire,10. Love in Slow Motion,14. Young and Beautiful
+104,17,23,9. The Winner Takes It All,23. Acele,15. Let's Get Loud,6. Lush Life,21. Inainte Sa Ne Fi Nascut,2. Ten Seconds to Love,18. Crying in the Club,22. Imperfect,17. One Day
+105,9,23,23. Acele,7. Picatura de cerneala,3. Lav Stori,17. One Day,13. Bad Romance,6. Lush Life,18. Crying in the Club,12. L'enfer,9. The Winner Takes It All
+106,17,22,16. Dance Again,22. Imperfect,6. Lush Life,8. High Hopes,4. Fire,19. Limousine,17. One Day,18. Crying in the Club,1. Ultima noapte de dragoste
+107,10,23,10. Love in Slow Motion,15. Let's Get Loud,23. Acele,3. Lav Stori,1. Ultima noapte de dragoste,11. K La Meteo,6. Lush Life,8. High Hopes,19. Limousine
+108,10,18,12. L'enfer,4. Fire,6. Lush Life,3. Lav Stori,18. Crying in the Club,11. K La Meteo,2. Ten Seconds to Love,8. High Hopes,10. Love in Slow Motion
+109,7,22,9. The Winner Takes It All,8. High Hopes,14. Young and Beautiful,22. Imperfect,13. Bad Romance,21. Inainte Sa Ne Fi Nascut,7. Picatura de cerneala,3. Lav Stori,5. Titi Me Pregunto
+110,7,23,23. Acele,11. K La Meteo,5. Titi Me Pregunto,18. Crying in the Club,14. Young and Beautiful,6. Lush Life,12. L'enfer,20. Caliente,7. Picatura de cerneala
+111,9,20,20. Caliente,13. Bad Romance,3. Lav Stori,19. Limousine,15. Let's Get Loud,16. Dance Again,1. Ultima noapte de dragoste,9. The Winner Takes It All,5. Titi Me Pregunto
+112,10,23,10. Love in Slow Motion,9. The Winner Takes It All,7. Picatura de cerneala,2. Ten Seconds to Love,6. Lush Life,14. Young and Beautiful,23. Acele,17. One Day,1. Ultima noapte de dragoste
+113,9,17,1. Ultima noapte de dragoste,12. L'enfer,2. Ten Seconds to Love,9. The Winner Takes It All,6. Lush Life,17. One Day,3. Lav Stori,11. K La Meteo,5. Titi Me Pregunto
+114,10,21,21. Inainte Sa Ne Fi Nascut,10. Love in Slow Motion,5. Titi Me Pregunto,4. Fire,6. Lush Life,15. Let's Get Loud,2. Ten Seconds to Love,1. Ultima noapte de dragoste,18. Crying in the Club
+115,15,23,14. Young and Beautiful,15. Let's Get Loud,10. Love in Slow Motion,17. One Day,11. K La Meteo,18. Crying in the Club,23. Acele,2. Ten Seconds to Love,13. Bad Romance
+116,17,20,18. Crying in the Club,9. The Winner Takes It All,4. Fire,10. Love in Slow Motion,17. One Day,20. Caliente,16. Dance Again,12. L'enfer,19. Limousine
+117,8,21,21. Inainte Sa Ne Fi Nascut,15. Let's Get Loud,2. Ten Seconds to Love,7. Picatura de cerneala,19. Limousine,8. High Hopes,14. Young and Beautiful,12. L'enfer,4. Fire
+118,14,19,11. K La Meteo,18. Crying in the Club,9. The Winner Takes It All,4. Fire,19. Limousine,16. Dance Again,14. Young and Beautiful,7. Picatura de cerneala,17. One Day
+119,13,21,20. Caliente,9. The Winner Takes It All,15. Let's Get Loud,13. Bad Romance,11. K La Meteo,8. High Hopes,3. Lav Stori,21. Inainte Sa Ne Fi Nascut,1. Ultima noapte de dragoste
+120,8,23,14. Young and Beautiful,8. High Hopes,21. Inainte Sa Ne Fi Nascut,13. Bad Romance,4. Fire,23. Acele,15. Let's Get Loud,6. Lush Life,1. Ultima noapte de dragoste
+121,16,21,8. High Hopes,16. Dance Again,5. Titi Me Pregunto,20. Caliente,21. Inainte Sa Ne Fi Nascut,9. The Winner Takes It All,10. Love in Slow Motion,17. One Day,18. Crying in the Club
+122,15,23,15. Let's Get Loud,12. L'enfer,1. Ultima noapte de dragoste,22. Imperfect,7. Picatura de cerneala,9. The Winner Takes It All,5. Titi Me Pregunto,23. Acele,17. One Day
+123,11,21,6. Lush Life,11. K La Meteo,16. Dance Again,13. Bad Romance,10. Love in Slow Motion,15. Let's Get Loud,9. The Winner Takes It All,5. Titi Me Pregunto,21. Inainte Sa Ne Fi Nascut
+124,14,21,9. The Winner Takes It All,2. Ten Seconds to Love,18. Crying in the Club,17. One Day,21. Inainte Sa Ne Fi Nascut,19. Limousine,3. Lav Stori,1. Ultima noapte de dragoste,14. Young and Beautiful
+125,15,23,15. Let's Get Loud,18. Crying in the Club,8. High Hopes,6. Lush Life,23. Acele,9. The Winner Takes It All,11. K La Meteo,1. Ultima noapte de dragoste,21. Inainte Sa Ne Fi Nascut
+126,12,22,6. Lush Life,11. K La Meteo,12. L'enfer,7. Picatura de cerneala,17. One Day,13. Bad Romance,20. Caliente,22. Imperfect,5. Titi Me Pregunto
+127,9,23,9. The Winner Takes It All,4. Fire,6. Lush Life,11. K La Meteo,18. Crying in the Club,16. Dance Again,10. Love in Slow Motion,15. Let's Get Loud,23. Acele
+128,16,21,10. Love in Slow Motion,7. Picatura de cerneala,16. Dance Again,13. Bad Romance,21. Inainte Sa Ne Fi Nascut,6. Lush Life,20. Caliente,1. Ultima noapte de dragoste,2. Ten Seconds to Love
+129,17,21,13. Bad Romance,10. Love in Slow Motion,18. Crying in the Club,8. High Hopes,21. Inainte Sa Ne Fi Nascut,11. K La Meteo,17. One Day,9. The Winner Takes It All,1. Ultima noapte de dragoste
+130,14,23,22. Imperfect,9. The Winner Takes It All,11. K La Meteo,2. Ten Seconds to Love,14. Young and Beautiful,17. One Day,12. L'enfer,7. Picatura de cerneala,23. Acele
+131,18,22,18. Crying in the Club,16. Dance Again,4. Fire,1. Ultima noapte de dragoste,9. The Winner Takes It All,19. Limousine,3. Lav Stori,22. Imperfect,20. Caliente
+132,15,22,21. Inainte Sa Ne Fi Nascut,2. Ten Seconds to Love,6. Lush Life,20. Caliente,15. Let's Get Loud,17. One Day,10. Love in Slow Motion,7. Picatura de cerneala,22. Imperfect
+133,11,23,13. Bad Romance,7. Picatura de cerneala,10. Love in Slow Motion,12. L'enfer,5. Titi Me Pregunto,11. K La Meteo,18. Crying in the Club,23. Acele,3. Lav Stori
+134,14,23,23. Acele,13. Bad Romance,4. Fire,10. Love in Slow Motion,14. Young and Beautiful,18. Crying in the Club,17. One Day,8. High Hopes,7. Picatura de cerneala
+135,12,20,7. Picatura de cerneala,11. K La Meteo,16. Dance Again,20. Caliente,1. Ultima noapte de dragoste,14. Young and Beautiful,5. Titi Me Pregunto,12. L'enfer,17. One Day
+136,12,22,2. Ten Seconds to Love,15. Let's Get Loud,9. The Winner Takes It All,20. Caliente,22. Imperfect,17. One Day,4. Fire,12. L'enfer,7. Picatura de cerneala
+137,12,23,16. Dance Again,3. Lav Stori,1. Ultima noapte de dragoste,23. Acele,8. High Hopes,20. Caliente,17. One Day,12. L'enfer,10. Love in Slow Motion
+138,10,22,6. Lush Life,4. Fire,10. Love in Slow Motion,5. Titi Me Pregunto,17. One Day,16. Dance Again,15. Let's Get Loud,13. Bad Romance,22. Imperfect
+139,7,21,20. Caliente,14. Young and Beautiful,19. Limousine,21. Inainte Sa Ne Fi Nascut,8. High Hopes,2. Ten Seconds to Love,7. Picatura de cerneala,1. Ultima noapte de dragoste,4. Fire
+140,14,20,10. Love in Slow Motion,16. Dance Again,11. K La Meteo,20. Caliente,3. Lav Stori,9. The Winner Takes It All,5. Titi Me Pregunto,13. Bad Romance,14. Young and Beautiful
+141,12,23,2. Ten Seconds to Love,10. Love in Slow Motion,12. L'enfer,19. Limousine,8. High Hopes,18. Crying in the Club,5. Titi Me Pregunto,20. Caliente,23. Acele
+142,6,22,13. Bad Romance,3. Lav Stori,22. Imperfect,6. Lush Life,4. Fire,5. Titi Me Pregunto,1. Ultima noapte de dragoste,9. The Winner Takes It All,12. L'enfer
+143,8,23,9. The Winner Takes It All,5. Titi Me Pregunto,13. Bad Romance,3. Lav Stori,1. Ultima noapte de dragoste,8. High Hopes,22. Imperfect,15. Let's Get Loud,23. Acele
+144,9,19,7. Picatura de cerneala,5. Titi Me Pregunto,9. The Winner Takes It All,19. Limousine,14. Young and Beautiful,18. Crying in the Club,13. Bad Romance,6. Lush Life,12. L'enfer
+145,12,22,4. Fire,12. L'enfer,14. Young and Beautiful,22. Imperfect,6. Lush Life,1. Ultima noapte de dragoste,13. Bad Romance,10. Love in Slow Motion,8. High Hopes
+146,20,23,13. Bad Romance,20. Caliente,15. Let's Get Loud,4. Fire,1. Ultima noapte de dragoste,23. Acele,22. Imperfect,21. Inainte Sa Ne Fi Nascut,11. K La Meteo
+147,10,22,2. Ten Seconds to Love,10. Love in Slow Motion,22. Imperfect,11. K La Meteo,6. Lush Life,20. Caliente,9. The Winner Takes It All,3. Lav Stori,16. Dance Again
+148,6,23,4. Fire,19. Limousine,5. Titi Me Pregunto,6. Lush Life,3. Lav Stori,11. K La Meteo,1. Ultima noapte de dragoste,23. Acele,18. Crying in the Club
+149,8,19,18. Crying in the Club,12. L'enfer,6. Lush Life,5. Titi Me Pregunto,3. Lav Stori,8. High Hopes,19. Limousine,16. Dance Again,11. K La Meteo
+150,8,20,5. Titi Me Pregunto,6. Lush Life,8. High Hopes,11. K La Meteo,9. The Winner Takes It All,20. Caliente,3. Lav Stori,7. Picatura de cerneala,15. Let's Get Loud
+151,11,23,18. Crying in the Club,4. Fire,23. Acele,2. Ten Seconds to Love,6. Lush Life,11. K La Meteo,17. One Day,12. L'enfer,16. Dance Again
+152,16,22,22. Imperfect,14. Young and Beautiful,21. Inainte Sa Ne Fi Nascut,8. High Hopes,15. Let's Get Loud,16. Dance Again,9. The Winner Takes It All,17. One Day,18. Crying in the Club
+153,6,21,4. Fire,21. Inainte Sa Ne Fi Nascut,5. Titi Me Pregunto,2. Ten Seconds to Love,11. K La Meteo,6. Lush Life,10. Love in Slow Motion,12. L'enfer,3. Lav Stori
+154,12,21,5. Titi Me Pregunto,12. L'enfer,10. Love in Slow Motion,2. Ten Seconds to Love,6. Lush Life,14. Young and Beautiful,21. Inainte Sa Ne Fi Nascut,7. Picatura de cerneala,1. Ultima noapte de dragoste
+155,6,21,8. High Hopes,1. Ultima noapte de dragoste,21. Inainte Sa Ne Fi Nascut,15. Let's Get Loud,6. Lush Life,9. The Winner Takes It All,2. Ten Seconds to Love,4. Fire,16. Dance Again
+156,16,22,16. Dance Again,4. Fire,2. Ten Seconds to Love,10. Love in Slow Motion,22. Imperfect,14. Young and Beautiful,8. High Hopes,7. Picatura de cerneala,20. Caliente
+157,10,21,16. Dance Again,21. Inainte Sa Ne Fi Nascut,6. Lush Life,5. Titi Me Pregunto,9. The Winner Takes It All,10. Love in Slow Motion,12. L'enfer,8. High Hopes,20. Caliente
+158,13,22,13. Bad Romance,3. Lav Stori,21. Inainte Sa Ne Fi Nascut,2. Ten Seconds to Love,17. One Day,5. Titi Me Pregunto,1. Ultima noapte de dragoste,22. Imperfect,18. Crying in the Club
+159,17,21,2. Ten Seconds to Love,13. Bad Romance,19. Limousine,10. Love in Slow Motion,3. Lav Stori,20. Caliente,17. One Day,21. Inainte Sa Ne Fi Nascut,12. L'enfer
+160,16,23,6. Lush Life,21. Inainte Sa Ne Fi Nascut,10. Love in Slow Motion,23. Acele,8. High Hopes,16. Dance Again,18. Crying in the Club,3. Lav Stori,12. L'enfer
+161,14,22,4. Fire,2. Ten Seconds to Love,22. Imperfect,6. Lush Life,20. Caliente,8. High Hopes,14. Young and Beautiful,21. Inainte Sa Ne Fi Nascut,10. Love in Slow Motion
+162,11,21,21. Inainte Sa Ne Fi Nascut,19. Limousine,7. Picatura de cerneala,2. Ten Seconds to Love,10. Love in Slow Motion,11. K La Meteo,18. Crying in the Club,14. Young and Beautiful,15. Let's Get Loud
+163,16,23,2. Ten Seconds to Love,23. Acele,18. Crying in the Club,5. Titi Me Pregunto,15. Let's Get Loud,22. Imperfect,16. Dance Again,21. Inainte Sa Ne Fi Nascut,1. Ultima noapte de dragoste
+164,8,20,13. Bad Romance,8. High Hopes,12. L'enfer,15. Let's Get Loud,7. Picatura de cerneala,10. Love in Slow Motion,20. Caliente,5. Titi Me Pregunto,2. Ten Seconds to Love
+165,15,22,20. Caliente,8. High Hopes,4. Fire,18. Crying in the Club,21. Inainte Sa Ne Fi Nascut,13. Bad Romance,22. Imperfect,9. The Winner Takes It All,15. Let's Get Loud
+166,10,21,6. Lush Life,10. Love in Slow Motion,2. Ten Seconds to Love,12. L'enfer,21. Inainte Sa Ne Fi Nascut,18. Crying in the Club,19. Limousine,5. Titi Me Pregunto,14. Young and Beautiful
+167,13,23,9. The Winner Takes It All,23. Acele,22. Imperfect,5. Titi Me Pregunto,17. One Day,7. Picatura de cerneala,13. Bad Romance,2. Ten Seconds to Love,6. Lush Life
+168,9,21,6. Lush Life,17. One Day,3. Lav Stori,13. Bad Romance,11. K La Meteo,2. Ten Seconds to Love,19. Limousine,21. Inainte Sa Ne Fi Nascut,9. The Winner Takes It All
+169,11,21,21. Inainte Sa Ne Fi Nascut,12. L'enfer,15. Let's Get Loud,20. Caliente,2. Ten Seconds to Love,16. Dance Again,9. The Winner Takes It All,5. Titi Me Pregunto,11. K La Meteo
+170,5,16,4. Fire,9. The Winner Takes It All,11. K La Meteo,2. Ten Seconds to Love,12. L'enfer,16. Dance Again,5. Titi Me Pregunto,3. Lav Stori,8. High Hopes
+171,6,23,16. Dance Again,1. Ultima noapte de dragoste,21. Inainte Sa Ne Fi Nascut,8. High Hopes,23. Acele,14. Young and Beautiful,3. Lav Stori,4. Fire,6. Lush Life
+172,9,18,4. Fire,9. The Winner Takes It All,10. Love in Slow Motion,5. Titi Me Pregunto,8. High Hopes,14. Young and Beautiful,18. Crying in the Club,7. Picatura de cerneala,3. Lav Stori
+173,18,23,5. Titi Me Pregunto,23. Acele,4. Fire,22. Imperfect,2. Ten Seconds to Love,20. Caliente,15. Let's Get Loud,18. Crying in the Club,14. Young and Beautiful
+174,8,21,8. High Hopes,2. Ten Seconds to Love,16. Dance Again,5. Titi Me Pregunto,13. Bad Romance,19. Limousine,3. Lav Stori,21. Inainte Sa Ne Fi Nascut,14. Young and Beautiful
+175,4,21,18. Crying in the Club,13. Bad Romance,16. Dance Again,21. Inainte Sa Ne Fi Nascut,14. Young and Beautiful,6. Lush Life,4. Fire,1. Ultima noapte de dragoste,2. Ten Seconds to Love
+176,18,23,22. Imperfect,15. Let's Get Loud,7. Picatura de cerneala,10. Love in Slow Motion,18. Crying in the Club,20. Caliente,23. Acele,17. One Day,8. High Hopes
+177,8,23,21. Inainte Sa Ne Fi Nascut,6. Lush Life,15. Let's Get Loud,9. The Winner Takes It All,8. High Hopes,17. One Day,23. Acele,3. Lav Stori,4. Fire
+178,14,23,23. Acele,3. Lav Stori,6. Lush Life,10. Love in Slow Motion,9. The Winner Takes It All,14. Young and Beautiful,2. Ten Seconds to Love,20. Caliente,16. Dance Again
+179,9,23,15. Let's Get Loud,2. Ten Seconds to Love,7. Picatura de cerneala,5. Titi Me Pregunto,3. Lav Stori,23. Acele,19. Limousine,9. The Winner Takes It All,18. Crying in the Club
+180,7,23,8. High Hopes,7. Picatura de cerneala,22. Imperfect,19. Limousine,4. Fire,5. Titi Me Pregunto,23. Acele,6. Lush Life,15. Let's Get Loud
+181,14,23,2. Ten Seconds to Love,5. Titi Me Pregunto,23. Acele,17. One Day,19. Limousine,21. Inainte Sa Ne Fi Nascut,14. Young and Beautiful,4. Fire,9. The Winner Takes It All
+182,15,21,21. Inainte Sa Ne Fi Nascut,5. Titi Me Pregunto,2. Ten Seconds to Love,13. Bad Romance,15. Let's Get Loud,16. Dance Again,19. Limousine,10. Love in Slow Motion,9. The Winner Takes It All
+183,13,21,14. Young and Beautiful,12. L'enfer,13. Bad Romance,4. Fire,17. One Day,10. Love in Slow Motion,21. Inainte Sa Ne Fi Nascut,1. Ultima noapte de dragoste,8. High Hopes
+184,6,22,18. Crying in the Club,1. Ultima noapte de dragoste,8. High Hopes,11. K La Meteo,3. Lav Stori,22. Imperfect,10. Love in Slow Motion,6. Lush Life,17. One Day
+185,7,23,20. Caliente,23. Acele,3. Lav Stori,17. One Day,9. The Winner Takes It All,11. K La Meteo,7. Picatura de cerneala,2. Ten Seconds to Love,5. Titi Me Pregunto
+186,14,22,6. Lush Life,20. Caliente,18. Crying in the Club,11. K La Meteo,5. Titi Me Pregunto,21. Inainte Sa Ne Fi Nascut,14. Young and Beautiful,22. Imperfect,17. One Day
+187,17,22,11. K La Meteo,22. Imperfect,18. Crying in the Club,3. Lav Stori,17. One Day,6. Lush Life,19. Limousine,13. Bad Romance,2. Ten Seconds to Love
+188,4,19,15. Let's Get Loud,2. Ten Seconds to Love,11. K La Meteo,5. Titi Me Pregunto,4. Fire,1. Ultima noapte de dragoste,14. Young and Beautiful,3. Lav Stori,19. Limousine
+189,16,23,11. K La Meteo,1. Ultima noapte de dragoste,16. Dance Again,23. Acele,19. Limousine,13. Bad Romance,15. Let's Get Loud,22. Imperfect,4. Fire
+190,6,22,6. Lush Life,7. Picatura de cerneala,4. Fire,3. Lav Stori,17. One Day,8. High Hopes,5. Titi Me Pregunto,22. Imperfect,1. Ultima noapte de dragoste
+191,13,21,12. L'enfer,7. Picatura de cerneala,13. Bad Romance,4. Fire,8. High Hopes,19. Limousine,21. Inainte Sa Ne Fi Nascut,17. One Day,5. Titi Me Pregunto
+192,7,21,11. K La Meteo,4. Fire,7. Picatura de cerneala,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,2. Ten Seconds to Love,19. Limousine,14. Young and Beautiful,6. Lush Life
+193,17,21,21. Inainte Sa Ne Fi Nascut,6. Lush Life,7. Picatura de cerneala,15. Let's Get Loud,17. One Day,12. L'enfer,4. Fire,9. The Winner Takes It All,19. Limousine
+194,16,23,18. Crying in the Club,9. The Winner Takes It All,20. Caliente,16. Dance Again,12. L'enfer,15. Let's Get Loud,14. Young and Beautiful,23. Acele,19. Limousine
+195,12,20,14. Young and Beautiful,6. Lush Life,20. Caliente,3. Lav Stori,12. L'enfer,19. Limousine,16. Dance Again,1. Ultima noapte de dragoste,15. Let's Get Loud
+196,15,19,2. Ten Seconds to Love,16. Dance Again,14. Young and Beautiful,6. Lush Life,13. Bad Romance,19. Limousine,15. Let's Get Loud,12. L'enfer,11. K La Meteo
+197,13,23,13. Bad Romance,15. Let's Get Loud,7. Picatura de cerneala,8. High Hopes,20. Caliente,23. Acele,4. Fire,17. One Day,6. Lush Life
+198,14,20,14. Young and Beautiful,2. Ten Seconds to Love,11. K La Meteo,12. L'enfer,20. Caliente,8. High Hopes,6. Lush Life,5. Titi Me Pregunto,18. Crying in the Club
+199,14,18,7. Picatura de cerneala,14. Young and Beautiful,18. Crying in the Club,17. One Day,6. Lush Life,3. Lav Stori,2. Ten Seconds to Love,4. Fire,15. Let's Get Loud
+200,12,20,2. Ten Seconds to Love,12. L'enfer,19. Limousine,13. Bad Romance,9. The Winner Takes It All,3. Lav Stori,20. Caliente,7. Picatura de cerneala,17. One Day
+201,13,18,10. Love in Slow Motion,15. Let's Get Loud,18. Crying in the Club,13. Bad Romance,5. Titi Me Pregunto,6. Lush Life,16. Dance Again,2. Ten Seconds to Love,9. The Winner Takes It All
+202,11,21,21. Inainte Sa Ne Fi Nascut,16. Dance Again,20. Caliente,13. Bad Romance,7. Picatura de cerneala,9. The Winner Takes It All,3. Lav Stori,2. Ten Seconds to Love,11. K La Meteo
+203,10,22,5. Titi Me Pregunto,14. Young and Beautiful,22. Imperfect,10. Love in Slow Motion,21. Inainte Sa Ne Fi Nascut,6. Lush Life,9. The Winner Takes It All,17. One Day,18. Crying in the Club
+204,15,21,13. Bad Romance,15. Let's Get Loud,3. Lav Stori,18. Crying in the Club,7. Picatura de cerneala,20. Caliente,11. K La Meteo,21. Inainte Sa Ne Fi Nascut,4. Fire
+205,17,21,19. Limousine,7. Picatura de cerneala,5. Titi Me Pregunto,1. Ultima noapte de dragoste,18. Crying in the Club,17. One Day,12. L'enfer,21. Inainte Sa Ne Fi Nascut,6. Lush Life
+206,12,22,9. The Winner Takes It All,16. Dance Again,12. L'enfer,19. Limousine,8. High Hopes,10. Love in Slow Motion,22. Imperfect,21. Inainte Sa Ne Fi Nascut,3. Lav Stori
+207,9,20,8. High Hopes,4. Fire,9. The Winner Takes It All,20. Caliente,13. Bad Romance,10. Love in Slow Motion,3. Lav Stori,11. K La Meteo,15. Let's Get Loud
+208,16,21,21. Inainte Sa Ne Fi Nascut,2. Ten Seconds to Love,10. Love in Slow Motion,19. Limousine,13. Bad Romance,7. Picatura de cerneala,18. Crying in the Club,17. One Day,16. Dance Again
+209,17,21,1. Ultima noapte de dragoste,13. Bad Romance,17. One Day,21. Inainte Sa Ne Fi Nascut,20. Caliente,11. K La Meteo,3. Lav Stori,19. Limousine,7. Picatura de cerneala
+210,13,23,18. Crying in the Club,9. The Winner Takes It All,14. Young and Beautiful,17. One Day,8. High Hopes,3. Lav Stori,15. Let's Get Loud,13. Bad Romance,23. Acele
+211,7,21,17. One Day,4. Fire,8. High Hopes,14. Young and Beautiful,3. Lav Stori,13. Bad Romance,16. Dance Again,7. Picatura de cerneala,21. Inainte Sa Ne Fi Nascut
+212,14,19,14. Young and Beautiful,18. Crying in the Club,1. Ultima noapte de dragoste,10. Love in Slow Motion,12. L'enfer,17. One Day,8. High Hopes,19. Limousine,11. K La Meteo
+213,14,19,4. Fire,8. High Hopes,14. Young and Beautiful,19. Limousine,2. Ten Seconds to Love,1. Ultima noapte de dragoste,5. Titi Me Pregunto,15. Let's Get Loud,3. Lav Stori
+214,10,23,5. Titi Me Pregunto,10. Love in Slow Motion,2. Ten Seconds to Love,16. Dance Again,3. Lav Stori,14. Young and Beautiful,13. Bad Romance,23. Acele,20. Caliente
+215,8,21,16. Dance Again,9. The Winner Takes It All,20. Caliente,8. High Hopes,3. Lav Stori,7. Picatura de cerneala,13. Bad Romance,12. L'enfer,21. Inainte Sa Ne Fi Nascut
+216,12,20,16. Dance Again,11. K La Meteo,6. Lush Life,4. Fire,20. Caliente,3. Lav Stori,1. Ultima noapte de dragoste,10. Love in Slow Motion,12. L'enfer
+217,13,22,6. Lush Life,12. L'enfer,22. Imperfect,1. Ultima noapte de dragoste,10. Love in Slow Motion,13. Bad Romance,19. Limousine,20. Caliente,9. The Winner Takes It All
+218,14,21,12. L'enfer,6. Lush Life,21. Inainte Sa Ne Fi Nascut,15. Let's Get Loud,14. Young and Beautiful,1. Ultima noapte de dragoste,4. Fire,9. The Winner Takes It All,17. One Day
+219,13,20,9. The Winner Takes It All,11. K La Meteo,13. Bad Romance,12. L'enfer,16. Dance Again,15. Let's Get Loud,20. Caliente,10. Love in Slow Motion,18. Crying in the Club
+220,15,23,16. Dance Again,13. Bad Romance,8. High Hopes,12. L'enfer,15. Let's Get Loud,7. Picatura de cerneala,2. Ten Seconds to Love,6. Lush Life,23. Acele
+221,7,21,2. Ten Seconds to Love,20. Caliente,21. Inainte Sa Ne Fi Nascut,18. Crying in the Club,19. Limousine,3. Lav Stori,1. Ultima noapte de dragoste,7. Picatura de cerneala,4. Fire
+222,18,23,20. Caliente,8. High Hopes,3. Lav Stori,14. Young and Beautiful,13. Bad Romance,23. Acele,9. The Winner Takes It All,18. Crying in the Club,11. K La Meteo
+223,14,22,14. Young and Beautiful,11. K La Meteo,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,22. Imperfect,8. High Hopes,4. Fire,13. Bad Romance,18. Crying in the Club
+224,8,21,10. Love in Slow Motion,19. Limousine,20. Caliente,1. Ultima noapte de dragoste,8. High Hopes,3. Lav Stori,14. Young and Beautiful,17. One Day,21. Inainte Sa Ne Fi Nascut
+225,13,22,18. Crying in the Club,16. Dance Again,7. Picatura de cerneala,22. Imperfect,11. K La Meteo,6. Lush Life,4. Fire,10. Love in Slow Motion,13. Bad Romance
+226,10,23,4. Fire,16. Dance Again,23. Acele,7. Picatura de cerneala,3. Lav Stori,10. Love in Slow Motion,21. Inainte Sa Ne Fi Nascut,2. Ten Seconds to Love,15. Let's Get Loud
+227,16,21,5. Titi Me Pregunto,16. Dance Again,15. Let's Get Loud,18. Crying in the Club,8. High Hopes,12. L'enfer,11. K La Meteo,10. Love in Slow Motion,21. Inainte Sa Ne Fi Nascut
+228,17,22,21. Inainte Sa Ne Fi Nascut,17. One Day,8. High Hopes,20. Caliente,1. Ultima noapte de dragoste,18. Crying in the Club,22. Imperfect,2. Ten Seconds to Love,16. Dance Again
+229,16,21,10. Love in Slow Motion,20. Caliente,2. Ten Seconds to Love,21. Inainte Sa Ne Fi Nascut,15. Let's Get Loud,4. Fire,5. Titi Me Pregunto,12. L'enfer,16. Dance Again
+230,9,19,4. Fire,9. The Winner Takes It All,3. Lav Stori,8. High Hopes,19. Limousine,16. Dance Again,14. Young and Beautiful,2. Ten Seconds to Love,13. Bad Romance
+231,15,22,12. L'enfer,2. Ten Seconds to Love,22. Imperfect,14. Young and Beautiful,15. Let's Get Loud,7. Picatura de cerneala,21. Inainte Sa Ne Fi Nascut,17. One Day,1. Ultima noapte de dragoste
+232,11,22,10. Love in Slow Motion,18. Crying in the Club,22. Imperfect,1. Ultima noapte de dragoste,5. Titi Me Pregunto,21. Inainte Sa Ne Fi Nascut,11. K La Meteo,16. Dance Again,17. One Day
+233,16,20,12. L'enfer,3. Lav Stori,20. Caliente,2. Ten Seconds to Love,4. Fire,18. Crying in the Club,16. Dance Again,17. One Day,11. K La Meteo
+234,12,19,10. Love in Slow Motion,12. L'enfer,11. K La Meteo,17. One Day,2. Ten Seconds to Love,5. Titi Me Pregunto,19. Limousine,15. Let's Get Loud,18. Crying in the Club
+235,10,23,4. Fire,11. K La Meteo,6. Lush Life,23. Acele,17. One Day,7. Picatura de cerneala,15. Let's Get Loud,19. Limousine,10. Love in Slow Motion
+236,4,23,3. Lav Stori,23. Acele,13. Bad Romance,18. Crying in the Club,5. Titi Me Pregunto,6. Lush Life,2. Ten Seconds to Love,1. Ultima noapte de dragoste,4. Fire
+237,9,17,7. Picatura de cerneala,4. Fire,17. One Day,13. Bad Romance,6. Lush Life,15. Let's Get Loud,14. Young and Beautiful,9. The Winner Takes It All,2. Ten Seconds to Love
+238,10,22,19. Limousine,13. Bad Romance,12. L'enfer,1. Ultima noapte de dragoste,9. The Winner Takes It All,10. Love in Slow Motion,22. Imperfect,16. Dance Again,4. Fire
+239,17,20,10. Love in Slow Motion,3. Lav Stori,17. One Day,14. Young and Beautiful,20. Caliente,12. L'enfer,19. Limousine,7. Picatura de cerneala,13. Bad Romance
+240,17,23,13. Bad Romance,18. Crying in the Club,20. Caliente,2. Ten Seconds to Love,10. Love in Slow Motion,23. Acele,17. One Day,16. Dance Again,15. Let's Get Loud
+241,13,22,22. Imperfect,3. Lav Stori,13. Bad Romance,19. Limousine,20. Caliente,9. The Winner Takes It All,16. Dance Again,4. Fire,11. K La Meteo
+242,13,23,13. Bad Romance,20. Caliente,6. Lush Life,8. High Hopes,17. One Day,23. Acele,7. Picatura de cerneala,19. Limousine,12. L'enfer
+243,6,20,6. Lush Life,17. One Day,7. Picatura de cerneala,4. Fire,12. L'enfer,20. Caliente,5. Titi Me Pregunto,19. Limousine,9. The Winner Takes It All
+244,8,21,2. Ten Seconds to Love,15. Let's Get Loud,17. One Day,4. Fire,6. Lush Life,10. Love in Slow Motion,8. High Hopes,21. Inainte Sa Ne Fi Nascut,12. L'enfer
+245,10,21,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,18. Crying in the Club,14. Young and Beautiful,10. Love in Slow Motion,8. High Hopes,17. One Day,1. Ultima noapte de dragoste,11. K La Meteo
+246,12,19,1. Ultima noapte de dragoste,2. Ten Seconds to Love,19. Limousine,13. Bad Romance,7. Picatura de cerneala,8. High Hopes,5. Titi Me Pregunto,12. L'enfer,4. Fire
+247,5,23,17. One Day,12. L'enfer,4. Fire,5. Titi Me Pregunto,1. Ultima noapte de dragoste,2. Ten Seconds to Love,23. Acele,13. Bad Romance,9. The Winner Takes It All
+248,14,22,14. Young and Beautiful,18. Crying in the Club,15. Let's Get Loud,5. Titi Me Pregunto,4. Fire,22. Imperfect,11. K La Meteo,17. One Day,2. Ten Seconds to Love
+249,9,22,3. Lav Stori,14. Young and Beautiful,15. Let's Get Loud,16. Dance Again,19. Limousine,22. Imperfect,1. Ultima noapte de dragoste,9. The Winner Takes It All,7. Picatura de cerneala
+250,13,23,2. Ten Seconds to Love,13. Bad Romance,1. Ultima noapte de dragoste,5. Titi Me Pregunto,21. Inainte Sa Ne Fi Nascut,16. Dance Again,19. Limousine,23. Acele,15. Let's Get Loud
+251,14,23,2. Ten Seconds to Love,21. Inainte Sa Ne Fi Nascut,17. One Day,23. Acele,13. Bad Romance,5. Titi Me Pregunto,6. Lush Life,14. Young and Beautiful,10. Love in Slow Motion
+252,9,23,9. The Winner Takes It All,17. One Day,10. Love in Slow Motion,8. High Hopes,23. Acele,18. Crying in the Club,3. Lav Stori,12. L'enfer,19. Limousine
+253,13,19,5. Titi Me Pregunto,19. Limousine,17. One Day,13. Bad Romance,11. K La Meteo,2. Ten Seconds to Love,18. Crying in the Club,12. L'enfer,3. Lav Stori
+254,12,20,9. The Winner Takes It All,7. Picatura de cerneala,15. Let's Get Loud,1. Ultima noapte de dragoste,12. L'enfer,11. K La Meteo,13. Bad Romance,20. Caliente,6. Lush Life
+255,7,22,22. Imperfect,11. K La Meteo,5. Titi Me Pregunto,12. L'enfer,17. One Day,20. Caliente,4. Fire,7. Picatura de cerneala,1. Ultima noapte de dragoste
+256,18,22,19. Limousine,7. Picatura de cerneala,20. Caliente,2. Ten Seconds to Love,17. One Day,18. Crying in the Club,14. Young and Beautiful,22. Imperfect,13. Bad Romance
+257,13,23,11. K La Meteo,21. Inainte Sa Ne Fi Nascut,13. Bad Romance,23. Acele,4. Fire,2. Ten Seconds to Love,17. One Day,19. Limousine,1. Ultima noapte de dragoste
+258,18,23,1. Ultima noapte de dragoste,23. Acele,4. Fire,15. Let's Get Loud,19. Limousine,8. High Hopes,18. Crying in the Club,14. Young and Beautiful,21. Inainte Sa Ne Fi Nascut
+259,13,21,12. L'enfer,18. Crying in the Club,21. Inainte Sa Ne Fi Nascut,17. One Day,2. Ten Seconds to Love,8. High Hopes,13. Bad Romance,9. The Winner Takes It All,6. Lush Life
+260,5,21,4. Fire,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,18. Crying in the Club,12. L'enfer,17. One Day,5. Titi Me Pregunto,1. Ultima noapte de dragoste,2. Ten Seconds to Love
+261,17,21,1. Ultima noapte de dragoste,18. Crying in the Club,21. Inainte Sa Ne Fi Nascut,13. Bad Romance,19. Limousine,11. K La Meteo,17. One Day,7. Picatura de cerneala,4. Fire
+262,14,18,15. Let's Get Loud,4. Fire,18. Crying in the Club,17. One Day,16. Dance Again,11. K La Meteo,9. The Winner Takes It All,14. Young and Beautiful,5. Titi Me Pregunto
+263,15,23,4. Fire,21. Inainte Sa Ne Fi Nascut,23. Acele,15. Let's Get Loud,13. Bad Romance,5. Titi Me Pregunto,20. Caliente,18. Crying in the Club,6. Lush Life
+264,9,21,1. Ultima noapte de dragoste,9. The Winner Takes It All,2. Ten Seconds to Love,16. Dance Again,10. Love in Slow Motion,6. Lush Life,15. Let's Get Loud,21. Inainte Sa Ne Fi Nascut,20. Caliente
+265,6,18,1. Ultima noapte de dragoste,6. Lush Life,16. Dance Again,14. Young and Beautiful,4. Fire,18. Crying in the Club,12. L'enfer,5. Titi Me Pregunto,13. Bad Romance
+266,13,22,7. Picatura de cerneala,20. Caliente,13. Bad Romance,17. One Day,6. Lush Life,11. K La Meteo,4. Fire,22. Imperfect,9. The Winner Takes It All
+267,9,23,20. Caliente,22. Imperfect,2. Ten Seconds to Love,4. Fire,5. Titi Me Pregunto,9. The Winner Takes It All,17. One Day,18. Crying in the Club,23. Acele
+268,18,23,11. K La Meteo,19. Limousine,23. Acele,14. Young and Beautiful,20. Caliente,21. Inainte Sa Ne Fi Nascut,18. Crying in the Club,16. Dance Again,10. Love in Slow Motion
+269,8,23,23. Acele,22. Imperfect,5. Titi Me Pregunto,1. Ultima noapte de dragoste,8. High Hopes,3. Lav Stori,20. Caliente,14. Young and Beautiful,9. The Winner Takes It All
+270,9,22,22. Imperfect,9. The Winner Takes It All,5. Titi Me Pregunto,14. Young and Beautiful,8. High Hopes,1. Ultima noapte de dragoste,10. Love in Slow Motion,2. Ten Seconds to Love,21. Inainte Sa Ne Fi Nascut
+271,8,20,6. Lush Life,8. High Hopes,2. Ten Seconds to Love,20. Caliente,11. K La Meteo,15. Let's Get Loud,13. Bad Romance,4. Fire,16. Dance Again
+272,19,22,7. Picatura de cerneala,6. Lush Life,22. Imperfect,1. Ultima noapte de dragoste,20. Caliente,4. Fire,19. Limousine,3. Lav Stori,8. High Hopes
+273,19,22,9. The Winner Takes It All,17. One Day,20. Caliente,13. Bad Romance,22. Imperfect,12. L'enfer,19. Limousine,4. Fire,11. K La Meteo
+274,11,23,2. Ten Seconds to Love,10. Love in Slow Motion,11. K La Meteo,17. One Day,21. Inainte Sa Ne Fi Nascut,23. Acele,9. The Winner Takes It All,19. Limousine,8. High Hopes
+275,12,20,12. L'enfer,10. Love in Slow Motion,11. K La Meteo,18. Crying in the Club,13. Bad Romance,15. Let's Get Loud,19. Limousine,17. One Day,20. Caliente
+276,17,23,8. High Hopes,2. Ten Seconds to Love,17. One Day,19. Limousine,16. Dance Again,22. Imperfect,4. Fire,23. Acele,3. Lav Stori
+277,14,23,18. Crying in the Club,6. Lush Life,12. L'enfer,2. Ten Seconds to Love,9. The Winner Takes It All,14. Young and Beautiful,23. Acele,16. Dance Again,5. Titi Me Pregunto
+278,13,23,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,5. Titi Me Pregunto,9. The Winner Takes It All,22. Imperfect,23. Acele,7. Picatura de cerneala,13. Bad Romance,11. K La Meteo
+279,5,19,19. Limousine,17. One Day,4. Fire,8. High Hopes,10. Love in Slow Motion,3. Lav Stori,9. The Winner Takes It All,16. Dance Again,5. Titi Me Pregunto
+280,7,21,7. Picatura de cerneala,3. Lav Stori,1. Ultima noapte de dragoste,14. Young and Beautiful,10. Love in Slow Motion,21. Inainte Sa Ne Fi Nascut,17. One Day,19. Limousine,5. Titi Me Pregunto
+281,17,23,18. Crying in the Club,11. K La Meteo,2. Ten Seconds to Love,19. Limousine,15. Let's Get Loud,23. Acele,7. Picatura de cerneala,17. One Day,1. Ultima noapte de dragoste
+282,9,19,16. Dance Again,7. Picatura de cerneala,10. Love in Slow Motion,4. Fire,9. The Winner Takes It All,5. Titi Me Pregunto,19. Limousine,14. Young and Beautiful,11. K La Meteo
+283,10,23,10. Love in Slow Motion,6. Lush Life,5. Titi Me Pregunto,2. Ten Seconds to Love,15. Let's Get Loud,23. Acele,20. Caliente,9. The Winner Takes It All,1. Ultima noapte de dragoste
+284,11,21,12. L'enfer,21. Inainte Sa Ne Fi Nascut,8. High Hopes,13. Bad Romance,15. Let's Get Loud,16. Dance Again,11. K La Meteo,2. Ten Seconds to Love,9. The Winner Takes It All
+285,12,23,2. Ten Seconds to Love,1. Ultima noapte de dragoste,20. Caliente,5. Titi Me Pregunto,11. K La Meteo,16. Dance Again,23. Acele,12. L'enfer,10. Love in Slow Motion
+286,9,23,23. Acele,9. The Winner Takes It All,13. Bad Romance,18. Crying in the Club,8. High Hopes,11. K La Meteo,5. Titi Me Pregunto,4. Fire,15. Let's Get Loud
+287,17,23,1. Ultima noapte de dragoste,13. Bad Romance,19. Limousine,17. One Day,6. Lush Life,4. Fire,23. Acele,20. Caliente,3. Lav Stori
+288,7,23,20. Caliente,6. Lush Life,19. Limousine,23. Acele,7. Picatura de cerneala,22. Imperfect,5. Titi Me Pregunto,2. Ten Seconds to Love,13. Bad Romance
+289,7,16,8. High Hopes,9. The Winner Takes It All,16. Dance Again,7. Picatura de cerneala,2. Ten Seconds to Love,3. Lav Stori,1. Ultima noapte de dragoste,4. Fire,15. Let's Get Loud
+290,8,22,4. Fire,22. Imperfect,20. Caliente,9. The Winner Takes It All,10. Love in Slow Motion,13. Bad Romance,6. Lush Life,8. High Hopes,3. Lav Stori
+291,11,20,14. Young and Beautiful,1. Ultima noapte de dragoste,5. Titi Me Pregunto,13. Bad Romance,9. The Winner Takes It All,20. Caliente,4. Fire,11. K La Meteo,18. Crying in the Club
+292,9,22,9. The Winner Takes It All,1. Ultima noapte de dragoste,2. Ten Seconds to Love,17. One Day,16. Dance Again,12. L'enfer,22. Imperfect,13. Bad Romance,19. Limousine
+293,12,21,19. Limousine,1. Ultima noapte de dragoste,16. Dance Again,17. One Day,12. L'enfer,5. Titi Me Pregunto,10. Love in Slow Motion,7. Picatura de cerneala,21. Inainte Sa Ne Fi Nascut
+294,13,20,7. Picatura de cerneala,2. Ten Seconds to Love,20. Caliente,5. Titi Me Pregunto,16. Dance Again,8. High Hopes,13. Bad Romance,1. Ultima noapte de dragoste,15. Let's Get Loud
+295,12,21,8. High Hopes,6. Lush Life,12. L'enfer,21. Inainte Sa Ne Fi Nascut,18. Crying in the Club,4. Fire,2. Ten Seconds to Love,16. Dance Again,7. Picatura de cerneala
+296,12,21,11. K La Meteo,1. Ultima noapte de dragoste,12. L'enfer,21. Inainte Sa Ne Fi Nascut,9. The Winner Takes It All,16. Dance Again,7. Picatura de cerneala,14. Young and Beautiful,4. Fire
+297,14,23,4. Fire,7. Picatura de cerneala,17. One Day,14. Young and Beautiful,10. Love in Slow Motion,8. High Hopes,12. L'enfer,23. Acele,19. Limousine
+298,14,23,17. One Day,1. Ultima noapte de dragoste,7. Picatura de cerneala,20. Caliente,14. Young and Beautiful,3. Lav Stori,10. Love in Slow Motion,11. K La Meteo,23. Acele
+299,13,23,13. Bad Romance,17. One Day,22. Imperfect,10. Love in Slow Motion,23. Acele,2. Ten Seconds to Love,3. Lav Stori,15. Let's Get Loud,12. L'enfer
+300,11,22,14. Young and Beautiful,10. Love in Slow Motion,11. K La Meteo,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,8. High Hopes,22. Imperfect,20. Caliente,9. The Winner Takes It All
+301,8,17,1. Ultima noapte de dragoste,12. L'enfer,9. The Winner Takes It All,7. Picatura de cerneala,4. Fire,10. Love in Slow Motion,8. High Hopes,17. One Day,16. Dance Again
+302,8,22,12. L'enfer,22. Imperfect,5. Titi Me Pregunto,13. Bad Romance,14. Young and Beautiful,15. Let's Get Loud,2. Ten Seconds to Love,8. High Hopes,7. Picatura de cerneala
+303,18,23,7. Picatura de cerneala,22. Imperfect,23. Acele,18. Crying in the Club,1. Ultima noapte de dragoste,6. Lush Life,19. Limousine,10. Love in Slow Motion,5. Titi Me Pregunto
+304,8,22,18. Crying in the Club,14. Young and Beautiful,22. Imperfect,10. Love in Slow Motion,1. Ultima noapte de dragoste,5. Titi Me Pregunto,8. High Hopes,2. Ten Seconds to Love,3. Lav Stori
+305,16,21,12. L'enfer,18. Crying in the Club,15. Let's Get Loud,5. Titi Me Pregunto,1. Ultima noapte de dragoste,16. Dance Again,21. Inainte Sa Ne Fi Nascut,6. Lush Life,10. Love in Slow Motion
+306,14,21,15. Let's Get Loud,10. Love in Slow Motion,18. Crying in the Club,20. Caliente,21. Inainte Sa Ne Fi Nascut,12. L'enfer,14. Young and Beautiful,6. Lush Life,1. Ultima noapte de dragoste
+307,12,22,1. Ultima noapte de dragoste,18. Crying in the Club,22. Imperfect,12. L'enfer,10. Love in Slow Motion,7. Picatura de cerneala,6. Lush Life,16. Dance Again,19. Limousine
+308,19,22,2. Ten Seconds to Love,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,22. Imperfect,12. L'enfer,8. High Hopes,5. Titi Me Pregunto,4. Fire,19. Limousine
+309,15,21,15. Let's Get Loud,7. Picatura de cerneala,12. L'enfer,8. High Hopes,21. Inainte Sa Ne Fi Nascut,1. Ultima noapte de dragoste,5. Titi Me Pregunto,9. The Winner Takes It All,20. Caliente
+310,16,22,19. Limousine,20. Caliente,3. Lav Stori,8. High Hopes,12. L'enfer,16. Dance Again,5. Titi Me Pregunto,9. The Winner Takes It All,22. Imperfect
+311,12,23,13. Bad Romance,20. Caliente,5. Titi Me Pregunto,14. Young and Beautiful,19. Limousine,1. Ultima noapte de dragoste,2. Ten Seconds to Love,23. Acele,12. L'enfer
+312,12,23,4. Fire,2. Ten Seconds to Love,12. L'enfer,18. Crying in the Club,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,11. K La Meteo,23. Acele,20. Caliente
+313,16,23,23. Acele,18. Crying in the Club,6. Lush Life,3. Lav Stori,19. Limousine,16. Dance Again,11. K La Meteo,20. Caliente,8. High Hopes
+314,15,23,8. High Hopes,5. Titi Me Pregunto,18. Crying in the Club,23. Acele,20. Caliente,17. One Day,15. Let's Get Loud,3. Lav Stori,14. Young and Beautiful
+315,14,23,23. Acele,18. Crying in the Club,16. Dance Again,4. Fire,14. Young and Beautiful,10. Love in Slow Motion,20. Caliente,13. Bad Romance,3. Lav Stori
+316,11,22,11. K La Meteo,6. Lush Life,22. Imperfect,8. High Hopes,12. L'enfer,20. Caliente,5. Titi Me Pregunto,21. Inainte Sa Ne Fi Nascut,2. Ten Seconds to Love
+317,11,22,2. Ten Seconds to Love,14. Young and Beautiful,5. Titi Me Pregunto,1. Ultima noapte de dragoste,6. Lush Life,11. K La Meteo,18. Crying in the Club,9. The Winner Takes It All,22. Imperfect
+318,12,17,2. Ten Seconds to Love,15. Let's Get Loud,13. Bad Romance,17. One Day,6. Lush Life,10. Love in Slow Motion,8. High Hopes,4. Fire,12. L'enfer
+319,8,22,13. Bad Romance,12. L'enfer,1. Ultima noapte de dragoste,22. Imperfect,19. Limousine,4. Fire,10. Love in Slow Motion,7. Picatura de cerneala,8. High Hopes
+320,12,20,5. Titi Me Pregunto,11. K La Meteo,12. L'enfer,15. Let's Get Loud,20. Caliente,13. Bad Romance,8. High Hopes,18. Crying in the Club,16. Dance Again
+321,12,21,15. Let's Get Loud,6. Lush Life,21. Inainte Sa Ne Fi Nascut,7. Picatura de cerneala,16. Dance Again,20. Caliente,10. Love in Slow Motion,12. L'enfer,4. Fire
+322,18,23,18. Crying in the Club,13. Bad Romance,23. Acele,8. High Hopes,19. Limousine,22. Imperfect,17. One Day,20. Caliente,7. Picatura de cerneala
+323,10,23,1. Ultima noapte de dragoste,16. Dance Again,15. Let's Get Loud,23. Acele,18. Crying in the Club,19. Limousine,2. Ten Seconds to Love,10. Love in Slow Motion,6. Lush Life
+324,13,20,16. Dance Again,6. Lush Life,7. Picatura de cerneala,20. Caliente,13. Bad Romance,15. Let's Get Loud,17. One Day,12. L'enfer,10. Love in Slow Motion
+325,14,23,23. Acele,22. Imperfect,13. Bad Romance,14. Young and Beautiful,6. Lush Life,11. K La Meteo,4. Fire,18. Crying in the Club,19. Limousine
+326,11,20,20. Caliente,11. K La Meteo,16. Dance Again,7. Picatura de cerneala,10. Love in Slow Motion,15. Let's Get Loud,18. Crying in the Club,8. High Hopes,1. Ultima noapte de dragoste
+327,14,22,20. Caliente,12. L'enfer,11. K La Meteo,8. High Hopes,10. Love in Slow Motion,22. Imperfect,1. Ultima noapte de dragoste,14. Young and Beautiful,17. One Day
+328,12,23,22. Imperfect,12. L'enfer,18. Crying in the Club,21. Inainte Sa Ne Fi Nascut,1. Ultima noapte de dragoste,14. Young and Beautiful,9. The Winner Takes It All,2. Ten Seconds to Love,23. Acele
+329,11,23,7. Picatura de cerneala,11. K La Meteo,3. Lav Stori,9. The Winner Takes It All,13. Bad Romance,14. Young and Beautiful,23. Acele,21. Inainte Sa Ne Fi Nascut,10. Love in Slow Motion
+330,11,22,14. Young and Beautiful,11. K La Meteo,4. Fire,18. Crying in the Club,1. Ultima noapte de dragoste,22. Imperfect,19. Limousine,3. Lav Stori,16. Dance Again
+331,8,23,14. Young and Beautiful,11. K La Meteo,4. Fire,23. Acele,18. Crying in the Club,17. One Day,8. High Hopes,3. Lav Stori,2. Ten Seconds to Love
+332,9,21,7. Picatura de cerneala,18. Crying in the Club,14. Young and Beautiful,2. Ten Seconds to Love,21. Inainte Sa Ne Fi Nascut,11. K La Meteo,9. The Winner Takes It All,12. L'enfer,5. Titi Me Pregunto
+333,4,23,7. Picatura de cerneala,2. Ten Seconds to Love,6. Lush Life,5. Titi Me Pregunto,1. Ultima noapte de dragoste,14. Young and Beautiful,23. Acele,4. Fire,20. Caliente
+334,11,21,2. Ten Seconds to Love,11. K La Meteo,5. Titi Me Pregunto,12. L'enfer,16. Dance Again,14. Young and Beautiful,10. Love in Slow Motion,21. Inainte Sa Ne Fi Nascut,13. Bad Romance
+335,12,22,12. L'enfer,9. The Winner Takes It All,1. Ultima noapte de dragoste,3. Lav Stori,8. High Hopes,17. One Day,7. Picatura de cerneala,22. Imperfect,21. Inainte Sa Ne Fi Nascut
+336,11,23,3. Lav Stori,20. Caliente,16. Dance Again,11. K La Meteo,22. Imperfect,5. Titi Me Pregunto,4. Fire,23. Acele,17. One Day
+337,9,23,8. High Hopes,12. L'enfer,9. The Winner Takes It All,6. Lush Life,23. Acele,1. Ultima noapte de dragoste,16. Dance Again,19. Limousine,3. Lav Stori
+338,14,23,1. Ultima noapte de dragoste,4. Fire,15. Let's Get Loud,14. Young and Beautiful,22. Imperfect,5. Titi Me Pregunto,8. High Hopes,23. Acele,3. Lav Stori
+339,17,20,10. Love in Slow Motion,17. One Day,1. Ultima noapte de dragoste,20. Caliente,3. Lav Stori,11. K La Meteo,2. Ten Seconds to Love,15. Let's Get Loud,18. Crying in the Club
+340,16,23,18. Crying in the Club,23. Acele,16. Dance Again,17. One Day,4. Fire,14. Young and Beautiful,12. L'enfer,22. Imperfect,2. Ten Seconds to Love
+341,15,23,19. Limousine,11. K La Meteo,20. Caliente,9. The Winner Takes It All,5. Titi Me Pregunto,22. Imperfect,12. L'enfer,15. Let's Get Loud,23. Acele
+342,12,22,7. Picatura de cerneala,13. Bad Romance,21. Inainte Sa Ne Fi Nascut,12. L'enfer,1. Ultima noapte de dragoste,10. Love in Slow Motion,6. Lush Life,19. Limousine,22. Imperfect
+343,11,22,22. Imperfect,11. K La Meteo,19. Limousine,20. Caliente,4. Fire,16. Dance Again,2. Ten Seconds to Love,6. Lush Life,14. Young and Beautiful
+344,13,23,21. Inainte Sa Ne Fi Nascut,10. Love in Slow Motion,22. Imperfect,11. K La Meteo,13. Bad Romance,4. Fire,3. Lav Stori,23. Acele,9. The Winner Takes It All
+345,9,15,8. High Hopes,2. Ten Seconds to Love,12. L'enfer,5. Titi Me Pregunto,3. Lav Stori,9. The Winner Takes It All,11. K La Meteo,13. Bad Romance,15. Let's Get Loud
+346,17,23,20. Caliente,17. One Day,15. Let's Get Loud,16. Dance Again,3. Lav Stori,18. Crying in the Club,22. Imperfect,13. Bad Romance,23. Acele
+347,17,23,5. Titi Me Pregunto,6. Lush Life,23. Acele,7. Picatura de cerneala,22. Imperfect,8. High Hopes,17. One Day,13. Bad Romance,9. The Winner Takes It All
+348,17,22,12. L'enfer,9. The Winner Takes It All,19. Limousine,21. Inainte Sa Ne Fi Nascut,16. Dance Again,7. Picatura de cerneala,22. Imperfect,17. One Day,1. Ultima noapte de dragoste
+349,18,23,20. Caliente,19. Limousine,3. Lav Stori,6. Lush Life,2. Ten Seconds to Love,23. Acele,18. Crying in the Club,17. One Day,13. Bad Romance
+350,11,22,22. Imperfect,19. Limousine,6. Lush Life,16. Dance Again,1. Ultima noapte de dragoste,9. The Winner Takes It All,21. Inainte Sa Ne Fi Nascut,5. Titi Me Pregunto,11. K La Meteo
+351,8,20,16. Dance Again,13. Bad Romance,20. Caliente,8. High Hopes,1. Ultima noapte de dragoste,5. Titi Me Pregunto,14. Young and Beautiful,15. Let's Get Loud,17. One Day
+352,12,22,12. L'enfer,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,9. The Winner Takes It All,5. Titi Me Pregunto,13. Bad Romance,11. K La Meteo,19. Limousine,22. Imperfect
+353,10,23,22. Imperfect,12. L'enfer,1. Ultima noapte de dragoste,16. Dance Again,15. Let's Get Loud,23. Acele,6. Lush Life,9. The Winner Takes It All,10. Love in Slow Motion
+354,8,22,20. Caliente,8. High Hopes,14. Young and Beautiful,16. Dance Again,2. Ten Seconds to Love,22. Imperfect,13. Bad Romance,6. Lush Life,18. Crying in the Club
+355,10,23,15. Let's Get Loud,4. Fire,7. Picatura de cerneala,16. Dance Again,23. Acele,10. Love in Slow Motion,22. Imperfect,5. Titi Me Pregunto,3. Lav Stori
+356,18,23,21. Inainte Sa Ne Fi Nascut,10. Love in Slow Motion,5. Titi Me Pregunto,20. Caliente,17. One Day,12. L'enfer,2. Ten Seconds to Love,23. Acele,18. Crying in the Club
+357,10,23,23. Acele,3. Lav Stori,20. Caliente,4. Fire,10. Love in Slow Motion,6. Lush Life,12. L'enfer,9. The Winner Takes It All,13. Bad Romance
+358,20,22,22. Imperfect,4. Fire,19. Limousine,16. Dance Again,20. Caliente,1. Ultima noapte de dragoste,14. Young and Beautiful,18. Crying in the Club,21. Inainte Sa Ne Fi Nascut
+359,14,21,9. The Winner Takes It All,19. Limousine,5. Titi Me Pregunto,3. Lav Stori,7. Picatura de cerneala,21. Inainte Sa Ne Fi Nascut,14. Young and Beautiful,11. K La Meteo,18. Crying in the Club
+360,21,23,9. The Winner Takes It All,23. Acele,20. Caliente,21. Inainte Sa Ne Fi Nascut,8. High Hopes,13. Bad Romance,16. Dance Again,2. Ten Seconds to Love,22. Imperfect
+361,15,23,16. Dance Again,13. Bad Romance,9. The Winner Takes It All,23. Acele,14. Young and Beautiful,15. Let's Get Loud,11. K La Meteo,20. Caliente,2. Ten Seconds to Love
+362,11,21,19. Limousine,2. Ten Seconds to Love,13. Bad Romance,4. Fire,1. Ultima noapte de dragoste,11. K La Meteo,9. The Winner Takes It All,21. Inainte Sa Ne Fi Nascut,7. Picatura de cerneala
+363,9,21,9. The Winner Takes It All,21. Inainte Sa Ne Fi Nascut,12. L'enfer,7. Picatura de cerneala,17. One Day,19. Limousine,5. Titi Me Pregunto,8. High Hopes,16. Dance Again
+364,13,23,18. Crying in the Club,23. Acele,3. Lav Stori,21. Inainte Sa Ne Fi Nascut,20. Caliente,1. Ultima noapte de dragoste,6. Lush Life,9. The Winner Takes It All,13. Bad Romance
+365,13,20,19. Limousine,7. Picatura de cerneala,2. Ten Seconds to Love,9. The Winner Takes It All,16. Dance Again,13. Bad Romance,1. Ultima noapte de dragoste,20. Caliente,5. Titi Me Pregunto
+366,12,22,20. Caliente,22. Imperfect,5. Titi Me Pregunto,16. Dance Again,18. Crying in the Club,6. Lush Life,1. Ultima noapte de dragoste,7. Picatura de cerneala,12. L'enfer
+367,12,21,21. Inainte Sa Ne Fi Nascut,1. Ultima noapte de dragoste,11. K La Meteo,15. Let's Get Loud,16. Dance Again,12. L'enfer,2. Ten Seconds to Love,19. Limousine,6. Lush Life
+368,7,22,20. Caliente,12. L'enfer,3. Lav Stori,11. K La Meteo,22. Imperfect,7. Picatura de cerneala,2. Ten Seconds to Love,17. One Day,4. Fire
+369,12,22,19. Limousine,22. Imperfect,8. High Hopes,2. Ten Seconds to Love,5. Titi Me Pregunto,12. L'enfer,16. Dance Again,9. The Winner Takes It All,3. Lav Stori
+370,12,22,19. Limousine,16. Dance Again,9. The Winner Takes It All,22. Imperfect,6. Lush Life,12. L'enfer,17. One Day,13. Bad Romance,8. High Hopes
+371,8,23,7. Picatura de cerneala,11. K La Meteo,17. One Day,5. Titi Me Pregunto,10. Love in Slow Motion,23. Acele,8. High Hopes,20. Caliente,1. Ultima noapte de dragoste
+372,7,20,13. Bad Romance,19. Limousine,17. One Day,20. Caliente,12. L'enfer,16. Dance Again,1. Ultima noapte de dragoste,3. Lav Stori,7. Picatura de cerneala
+373,10,16,8. High Hopes,16. Dance Again,15. Let's Get Loud,12. L'enfer,11. K La Meteo,2. Ten Seconds to Love,1. Ultima noapte de dragoste,10. Love in Slow Motion,9. The Winner Takes It All
+374,8,17,7. Picatura de cerneala,6. Lush Life,17. One Day,11. K La Meteo,5. Titi Me Pregunto,1. Ultima noapte de dragoste,14. Young and Beautiful,8. High Hopes,3. Lav Stori
+375,19,22,17. One Day,22. Imperfect,6. Lush Life,19. Limousine,11. K La Meteo,20. Caliente,12. L'enfer,21. Inainte Sa Ne Fi Nascut,14. Young and Beautiful
+376,19,23,21. Inainte Sa Ne Fi Nascut,17. One Day,23. Acele,19. Limousine,8. High Hopes,1. Ultima noapte de dragoste,9. The Winner Takes It All,22. Imperfect,11. K La Meteo
+377,12,20,2. Ten Seconds to Love,18. Crying in the Club,10. Love in Slow Motion,5. Titi Me Pregunto,20. Caliente,3. Lav Stori,12. L'enfer,14. Young and Beautiful,17. One Day
+378,14,23,23. Acele,5. Titi Me Pregunto,15. Let's Get Loud,9. The Winner Takes It All,12. L'enfer,18. Crying in the Club,1. Ultima noapte de dragoste,14. Young and Beautiful,6. Lush Life
+379,13,20,1. Ultima noapte de dragoste,4. Fire,13. Bad Romance,17. One Day,20. Caliente,14. Young and Beautiful,5. Titi Me Pregunto,16. Dance Again,10. Love in Slow Motion
+380,14,20,20. Caliente,15. Let's Get Loud,19. Limousine,10. Love in Slow Motion,17. One Day,5. Titi Me Pregunto,7. Picatura de cerneala,9. The Winner Takes It All,14. Young and Beautiful
+381,14,23,2. Ten Seconds to Love,14. Young and Beautiful,21. Inainte Sa Ne Fi Nascut,12. L'enfer,5. Titi Me Pregunto,17. One Day,23. Acele,6. Lush Life,22. Imperfect
+382,9,23,11. K La Meteo,23. Acele,1. Ultima noapte de dragoste,17. One Day,13. Bad Romance,4. Fire,7. Picatura de cerneala,20. Caliente,9. The Winner Takes It All
+383,14,22,22. Imperfect,9. The Winner Takes It All,14. Young and Beautiful,19. Limousine,17. One Day,6. Lush Life,18. Crying in the Club,2. Ten Seconds to Love,11. K La Meteo
+384,15,22,8. High Hopes,13. Bad Romance,15. Let's Get Loud,20. Caliente,22. Imperfect,18. Crying in the Club,3. Lav Stori,10. Love in Slow Motion,16. Dance Again
+385,19,23,7. Picatura de cerneala,19. Limousine,20. Caliente,6. Lush Life,18. Crying in the Club,23. Acele,22. Imperfect,16. Dance Again,9. The Winner Takes It All
+386,18,22,3. Lav Stori,5. Titi Me Pregunto,22. Imperfect,18. Crying in the Club,8. High Hopes,7. Picatura de cerneala,11. K La Meteo,21. Inainte Sa Ne Fi Nascut,20. Caliente
+387,18,23,3. Lav Stori,23. Acele,21. Inainte Sa Ne Fi Nascut,7. Picatura de cerneala,20. Caliente,13. Bad Romance,18. Crying in the Club,4. Fire,15. Let's Get Loud
+388,18,20,2. Ten Seconds to Love,8. High Hopes,20. Caliente,6. Lush Life,19. Limousine,16. Dance Again,18. Crying in the Club,9. The Winner Takes It All,12. L'enfer
+389,12,22,7. Picatura de cerneala,13. Bad Romance,4. Fire,12. L'enfer,22. Imperfect,21. Inainte Sa Ne Fi Nascut,5. Titi Me Pregunto,19. Limousine,3. Lav Stori
+390,8,18,17. One Day,10. Love in Slow Motion,1. Ultima noapte de dragoste,16. Dance Again,18. Crying in the Club,8. High Hopes,13. Bad Romance,7. Picatura de cerneala,4. Fire
+391,7,19,7. Picatura de cerneala,17. One Day,12. L'enfer,6. Lush Life,19. Limousine,16. Dance Again,2. Ten Seconds to Love,4. Fire,14. Young and Beautiful
+392,8,23,22. Imperfect,3. Lav Stori,7. Picatura de cerneala,13. Bad Romance,2. Ten Seconds to Love,21. Inainte Sa Ne Fi Nascut,11. K La Meteo,8. High Hopes,23. Acele
+393,11,23,5. Titi Me Pregunto,11. K La Meteo,15. Let's Get Loud,2. Ten Seconds to Love,8. High Hopes,23. Acele,17. One Day,9. The Winner Takes It All,16. Dance Again
+394,16,21,6. Lush Life,21. Inainte Sa Ne Fi Nascut,11. K La Meteo,16. Dance Again,3. Lav Stori,15. Let's Get Loud,8. High Hopes,2. Ten Seconds to Love,18. Crying in the Club
+395,16,22,11. K La Meteo,22. Imperfect,9. The Winner Takes It All,20. Caliente,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,19. Limousine,7. Picatura de cerneala,16. Dance Again
+396,11,23,1. Ultima noapte de dragoste,3. Lav Stori,13. Bad Romance,2. Ten Seconds to Love,11. K La Meteo,23. Acele,16. Dance Again,8. High Hopes,22. Imperfect
+397,11,22,18. Crying in the Club,13. Bad Romance,21. Inainte Sa Ne Fi Nascut,8. High Hopes,3. Lav Stori,11. K La Meteo,16. Dance Again,22. Imperfect,4. Fire
+398,14,20,4. Fire,6. Lush Life,14. Young and Beautiful,16. Dance Again,17. One Day,18. Crying in the Club,10. Love in Slow Motion,9. The Winner Takes It All,20. Caliente
+399,4,23,1. Ultima noapte de dragoste,2. Ten Seconds to Love,9. The Winner Takes It All,4. Fire,22. Imperfect,14. Young and Beautiful,3. Lav Stori,23. Acele,11. K La Meteo
+400,15,23,9. The Winner Takes It All,21. Inainte Sa Ne Fi Nascut,10. Love in Slow Motion,15. Let's Get Loud,1. Ultima noapte de dragoste,16. Dance Again,7. Picatura de cerneala,23. Acele,5. Titi Me Pregunto
+401,18,22,18. Crying in the Club,17. One Day,3. Lav Stori,12. L'enfer,5. Titi Me Pregunto,19. Limousine,22. Imperfect,21. Inainte Sa Ne Fi Nascut,15. Let's Get Loud
+402,11,23,17. One Day,9. The Winner Takes It All,23. Acele,18. Crying in the Club,14. Young and Beautiful,21. Inainte Sa Ne Fi Nascut,3. Lav Stori,8. High Hopes,11. K La Meteo
+403,20,22,20. Caliente,8. High Hopes,1. Ultima noapte de dragoste,4. Fire,19. Limousine,22. Imperfect,11. K La Meteo,21. Inainte Sa Ne Fi Nascut,17. One Day
+404,16,23,9. The Winner Takes It All,17. One Day,8. High Hopes,16. Dance Again,20. Caliente,23. Acele,4. Fire,18. Crying in the Club,14. Young and Beautiful
+405,10,21,2. Ten Seconds to Love,13. Bad Romance,21. Inainte Sa Ne Fi Nascut,9. The Winner Takes It All,12. L'enfer,3. Lav Stori,10. Love in Slow Motion,20. Caliente,16. Dance Again
+406,9,23,13. Bad Romance,23. Acele,16. Dance Again,7. Picatura de cerneala,18. Crying in the Club,15. Let's Get Loud,5. Titi Me Pregunto,9. The Winner Takes It All,1. Ultima noapte de dragoste
+407,12,21,13. Bad Romance,6. Lush Life,10. Love in Slow Motion,3. Lav Stori,16. Dance Again,9. The Winner Takes It All,21. Inainte Sa Ne Fi Nascut,19. Limousine,12. L'enfer
+408,18,22,17. One Day,9. The Winner Takes It All,18. Crying in the Club,12. L'enfer,19. Limousine,5. Titi Me Pregunto,22. Imperfect,3. Lav Stori,10. Love in Slow Motion
+409,16,19,19. Limousine,7. Picatura de cerneala,6. Lush Life,8. High Hopes,2. Ten Seconds to Love,17. One Day,9. The Winner Takes It All,16. Dance Again,15. Let's Get Loud
+410,9,23,5. Titi Me Pregunto,9. The Winner Takes It All,22. Imperfect,11. K La Meteo,4. Fire,23. Acele,3. Lav Stori,1. Ultima noapte de dragoste,10. Love in Slow Motion
+411,16,23,4. Fire,19. Limousine,23. Acele,7. Picatura de cerneala,17. One Day,2. Ten Seconds to Love,16. Dance Again,21. Inainte Sa Ne Fi Nascut,1. Ultima noapte de dragoste
+412,11,23,5. Titi Me Pregunto,13. Bad Romance,23. Acele,19. Limousine,8. High Hopes,3. Lav Stori,6. Lush Life,1. Ultima noapte de dragoste,11. K La Meteo
+413,5,21,12. L'enfer,5. Titi Me Pregunto,18. Crying in the Club,19. Limousine,3. Lav Stori,21. Inainte Sa Ne Fi Nascut,14. Young and Beautiful,1. Ultima noapte de dragoste,8. High Hopes
+414,6,21,16. Dance Again,10. Love in Slow Motion,13. Bad Romance,11. K La Meteo,21. Inainte Sa Ne Fi Nascut,17. One Day,6. Lush Life,1. Ultima noapte de dragoste,4. Fire
+415,15,18,15. Let's Get Loud,18. Crying in the Club,7. Picatura de cerneala,6. Lush Life,16. Dance Again,13. Bad Romance,12. L'enfer,1. Ultima noapte de dragoste,17. One Day
+416,13,23,12. L'enfer,17. One Day,13. Bad Romance,18. Crying in the Club,23. Acele,10. Love in Slow Motion,22. Imperfect,7. Picatura de cerneala,4. Fire
+417,11,22,13. Bad Romance,11. K La Meteo,16. Dance Again,17. One Day,10. Love in Slow Motion,14. Young and Beautiful,22. Imperfect,9. The Winner Takes It All,19. Limousine
+418,19,23,14. Young and Beautiful,8. High Hopes,23. Acele,18. Crying in the Club,21. Inainte Sa Ne Fi Nascut,12. L'enfer,19. Limousine,5. Titi Me Pregunto,6. Lush Life
+419,7,23,5. Titi Me Pregunto,2. Ten Seconds to Love,7. Picatura de cerneala,18. Crying in the Club,8. High Hopes,20. Caliente,13. Bad Romance,16. Dance Again,23. Acele
+420,11,19,11. K La Meteo,19. Limousine,3. Lav Stori,5. Titi Me Pregunto,7. Picatura de cerneala,16. Dance Again,8. High Hopes,6. Lush Life,13. Bad Romance
+421,13,22,10. Love in Slow Motion,22. Imperfect,17. One Day,8. High Hopes,18. Crying in the Club,19. Limousine,13. Bad Romance,21. Inainte Sa Ne Fi Nascut,5. Titi Me Pregunto
+422,9,20,20. Caliente,3. Lav Stori,7. Picatura de cerneala,6. Lush Life,14. Young and Beautiful,9. The Winner Takes It All,19. Limousine,5. Titi Me Pregunto,8. High Hopes
+423,13,22,5. Titi Me Pregunto,21. Inainte Sa Ne Fi Nascut,1. Ultima noapte de dragoste,6. Lush Life,18. Crying in the Club,15. Let's Get Loud,13. Bad Romance,11. K La Meteo,22. Imperfect
+424,15,21,4. Fire,8. High Hopes,17. One Day,20. Caliente,15. Let's Get Loud,10. Love in Slow Motion,14. Young and Beautiful,3. Lav Stori,21. Inainte Sa Ne Fi Nascut
+425,13,23,23. Acele,2. Ten Seconds to Love,1. Ultima noapte de dragoste,12. L'enfer,9. The Winner Takes It All,13. Bad Romance,19. Limousine,20. Caliente,15. Let's Get Loud
+426,9,19,15. Let's Get Loud,12. L'enfer,2. Ten Seconds to Love,17. One Day,6. Lush Life,4. Fire,19. Limousine,10. Love in Slow Motion,9. The Winner Takes It All
+427,7,22,22. Imperfect,3. Lav Stori,4. Fire,5. Titi Me Pregunto,1. Ultima noapte de dragoste,8. High Hopes,9. The Winner Takes It All,7. Picatura de cerneala,16. Dance Again
+428,14,22,1. Ultima noapte de dragoste,14. Young and Beautiful,3. Lav Stori,6. Lush Life,17. One Day,10. Love in Slow Motion,15. Let's Get Loud,22. Imperfect,21. Inainte Sa Ne Fi Nascut
+429,9,23,21. Inainte Sa Ne Fi Nascut,1. Ultima noapte de dragoste,16. Dance Again,11. K La Meteo,12. L'enfer,23. Acele,9. The Winner Takes It All,5. Titi Me Pregunto,4. Fire
+430,9,23,11. K La Meteo,17. One Day,3. Lav Stori,14. Young and Beautiful,5. Titi Me Pregunto,7. Picatura de cerneala,4. Fire,23. Acele,9. The Winner Takes It All
+431,11,23,5. Titi Me Pregunto,11. K La Meteo,8. High Hopes,23. Acele,19. Limousine,17. One Day,12. L'enfer,18. Crying in the Club,16. Dance Again
+432,10,21,10. Love in Slow Motion,7. Picatura de cerneala,6. Lush Life,5. Titi Me Pregunto,17. One Day,14. Young and Beautiful,12. L'enfer,16. Dance Again,21. Inainte Sa Ne Fi Nascut
+433,5,19,4. Fire,3. Lav Stori,5. Titi Me Pregunto,15. Let's Get Loud,9. The Winner Takes It All,7. Picatura de cerneala,19. Limousine,13. Bad Romance,12. L'enfer
+434,11,23,23. Acele,10. Love in Slow Motion,17. One Day,6. Lush Life,4. Fire,13. Bad Romance,14. Young and Beautiful,11. K La Meteo,1. Ultima noapte de dragoste
+435,16,19,18. Crying in the Club,5. Titi Me Pregunto,17. One Day,19. Limousine,13. Bad Romance,7. Picatura de cerneala,12. L'enfer,16. Dance Again,11. K La Meteo
+436,16,22,8. High Hopes,4. Fire,22. Imperfect,2. Ten Seconds to Love,13. Bad Romance,18. Crying in the Club,17. One Day,16. Dance Again,6. Lush Life
+437,13,23,8. High Hopes,19. Limousine,7. Picatura de cerneala,15. Let's Get Loud,1. Ultima noapte de dragoste,23. Acele,6. Lush Life,13. Bad Romance,5. Titi Me Pregunto
+438,16,23,2. Ten Seconds to Love,1. Ultima noapte de dragoste,21. Inainte Sa Ne Fi Nascut,4. Fire,16. Dance Again,15. Let's Get Loud,19. Limousine,23. Acele,11. K La Meteo
+439,18,23,6. Lush Life,21. Inainte Sa Ne Fi Nascut,9. The Winner Takes It All,12. L'enfer,17. One Day,20. Caliente,18. Crying in the Club,23. Acele,22. Imperfect
+440,9,21,21. Inainte Sa Ne Fi Nascut,15. Let's Get Loud,3. Lav Stori,19. Limousine,2. Ten Seconds to Love,9. The Winner Takes It All,5. Titi Me Pregunto,14. Young and Beautiful,8. High Hopes
+441,7,22,7. Picatura de cerneala,6. Lush Life,2. Ten Seconds to Love,5. Titi Me Pregunto,14. Young and Beautiful,20. Caliente,22. Imperfect,21. Inainte Sa Ne Fi Nascut,16. Dance Again
+442,11,21,17. One Day,2. Ten Seconds to Love,19. Limousine,5. Titi Me Pregunto,6. Lush Life,16. Dance Again,1. Ultima noapte de dragoste,11. K La Meteo,21. Inainte Sa Ne Fi Nascut
+443,11,21,5. Titi Me Pregunto,17. One Day,4. Fire,11. K La Meteo,6. Lush Life,20. Caliente,2. Ten Seconds to Love,21. Inainte Sa Ne Fi Nascut,1. Ultima noapte de dragoste
+444,11,23,11. K La Meteo,23. Acele,14. Young and Beautiful,3. Lav Stori,12. L'enfer,17. One Day,2. Ten Seconds to Love,21. Inainte Sa Ne Fi Nascut,8. High Hopes
+445,12,21,8. High Hopes,9. The Winner Takes It All,21. Inainte Sa Ne Fi Nascut,16. Dance Again,17. One Day,14. Young and Beautiful,12. L'enfer,1. Ultima noapte de dragoste,2. Ten Seconds to Love
+446,12,20,12. L'enfer,5. Titi Me Pregunto,8. High Hopes,1. Ultima noapte de dragoste,6. Lush Life,14. Young and Beautiful,4. Fire,20. Caliente,11. K La Meteo
+447,15,18,10. Love in Slow Motion,5. Titi Me Pregunto,17. One Day,15. Let's Get Loud,18. Crying in the Club,6. Lush Life,12. L'enfer,1. Ultima noapte de dragoste,16. Dance Again
+448,10,20,4. Fire,20. Caliente,9. The Winner Takes It All,1. Ultima noapte de dragoste,13. Bad Romance,17. One Day,10. Love in Slow Motion,6. Lush Life,16. Dance Again
+449,13,22,13. Bad Romance,6. Lush Life,3. Lav Stori,5. Titi Me Pregunto,16. Dance Again,11. K La Meteo,7. Picatura de cerneala,22. Imperfect,15. Let's Get Loud
+450,12,23,23. Acele,18. Crying in the Club,4. Fire,3. Lav Stori,17. One Day,12. L'enfer,2. Ten Seconds to Love,20. Caliente,11. K La Meteo
+451,15,22,19. Limousine,15. Let's Get Loud,12. L'enfer,22. Imperfect,9. The Winner Takes It All,10. Love in Slow Motion,2. Ten Seconds to Love,11. K La Meteo,17. One Day
+452,14,23,5. Titi Me Pregunto,20. Caliente,14. Young and Beautiful,23. Acele,19. Limousine,7. Picatura de cerneala,10. Love in Slow Motion,17. One Day,12. L'enfer
+453,10,20,9. The Winner Takes It All,10. Love in Slow Motion,20. Caliente,14. Young and Beautiful,2. Ten Seconds to Love,13. Bad Romance,6. Lush Life,1. Ultima noapte de dragoste,16. Dance Again
+454,9,17,5. Titi Me Pregunto,14. Young and Beautiful,9. The Winner Takes It All,1. Ultima noapte de dragoste,11. K La Meteo,2. Ten Seconds to Love,17. One Day,6. Lush Life,3. Lav Stori
+455,12,23,11. K La Meteo,10. Love in Slow Motion,18. Crying in the Club,4. Fire,14. Young and Beautiful,23. Acele,12. L'enfer,6. Lush Life,17. One Day
+456,6,22,11. K La Meteo,6. Lush Life,13. Bad Romance,12. L'enfer,5. Titi Me Pregunto,8. High Hopes,7. Picatura de cerneala,4. Fire,22. Imperfect
+457,16,23,20. Caliente,7. Picatura de cerneala,23. Acele,9. The Winner Takes It All,21. Inainte Sa Ne Fi Nascut,22. Imperfect,15. Let's Get Loud,10. Love in Slow Motion,16. Dance Again
+458,19,22,21. Inainte Sa Ne Fi Nascut,16. Dance Again,12. L'enfer,11. K La Meteo,13. Bad Romance,19. Limousine,2. Ten Seconds to Love,22. Imperfect,18. Crying in the Club
+459,18,23,22. Imperfect,19. Limousine,4. Fire,15. Let's Get Loud,3. Lav Stori,18. Crying in the Club,23. Acele,6. Lush Life,12. L'enfer
+460,13,20,13. Bad Romance,5. Titi Me Pregunto,3. Lav Stori,11. K La Meteo,20. Caliente,14. Young and Beautiful,12. L'enfer,10. Love in Slow Motion,18. Crying in the Club
+461,14,17,3. Lav Stori,11. K La Meteo,16. Dance Again,17. One Day,10. Love in Slow Motion,8. High Hopes,9. The Winner Takes It All,14. Young and Beautiful,2. Ten Seconds to Love
+462,18,23,1. Ultima noapte de dragoste,15. Let's Get Loud,21. Inainte Sa Ne Fi Nascut,12. L'enfer,23. Acele,3. Lav Stori,18. Crying in the Club,7. Picatura de cerneala,22. Imperfect
+463,11,23,11. K La Meteo,23. Acele,17. One Day,8. High Hopes,15. Let's Get Loud,9. The Winner Takes It All,5. Titi Me Pregunto,16. Dance Again,4. Fire
+464,11,18,10. Love in Slow Motion,2. Ten Seconds to Love,12. L'enfer,8. High Hopes,18. Crying in the Club,4. Fire,11. K La Meteo,5. Titi Me Pregunto,3. Lav Stori
+465,7,22,22. Imperfect,18. Crying in the Club,12. L'enfer,5. Titi Me Pregunto,9. The Winner Takes It All,1. Ultima noapte de dragoste,7. Picatura de cerneala,6. Lush Life,4. Fire
+466,15,22,16. Dance Again,18. Crying in the Club,10. Love in Slow Motion,6. Lush Life,2. Ten Seconds to Love,15. Let's Get Loud,14. Young and Beautiful,22. Imperfect,20. Caliente
+467,17,23,7. Picatura de cerneala,9. The Winner Takes It All,18. Crying in the Club,12. L'enfer,17. One Day,5. Titi Me Pregunto,23. Acele,22. Imperfect,19. Limousine
+468,9,21,7. Picatura de cerneala,21. Inainte Sa Ne Fi Nascut,11. K La Meteo,9. The Winner Takes It All,10. Love in Slow Motion,1. Ultima noapte de dragoste,5. Titi Me Pregunto,16. Dance Again,19. Limousine
+469,14,22,14. Young and Beautiful,13. Bad Romance,4. Fire,22. Imperfect,15. Let's Get Loud,21. Inainte Sa Ne Fi Nascut,9. The Winner Takes It All,2. Ten Seconds to Love,17. One Day
+470,17,23,20. Caliente,16. Dance Again,22. Imperfect,14. Young and Beautiful,17. One Day,7. Picatura de cerneala,23. Acele,10. Love in Slow Motion,2. Ten Seconds to Love
+471,10,19,12. L'enfer,10. Love in Slow Motion,16. Dance Again,13. Bad Romance,2. Ten Seconds to Love,14. Young and Beautiful,1. Ultima noapte de dragoste,8. High Hopes,19. Limousine
+472,9,22,20. Caliente,16. Dance Again,1. Ultima noapte de dragoste,22. Imperfect,7. Picatura de cerneala,11. K La Meteo,8. High Hopes,9. The Winner Takes It All,2. Ten Seconds to Love
+473,9,23,9. The Winner Takes It All,4. Fire,7. Picatura de cerneala,10. Love in Slow Motion,6. Lush Life,23. Acele,8. High Hopes,17. One Day,21. Inainte Sa Ne Fi Nascut
+474,15,22,9. The Winner Takes It All,22. Imperfect,17. One Day,15. Let's Get Loud,8. High Hopes,13. Bad Romance,20. Caliente,10. Love in Slow Motion,19. Limousine
+475,8,23,8. High Hopes,3. Lav Stori,2. Ten Seconds to Love,23. Acele,13. Bad Romance,1. Ultima noapte de dragoste,19. Limousine,9. The Winner Takes It All,21. Inainte Sa Ne Fi Nascut
+476,14,22,1. Ultima noapte de dragoste,13. Bad Romance,14. Young and Beautiful,22. Imperfect,16. Dance Again,4. Fire,15. Let's Get Loud,12. L'enfer,20. Caliente
+477,13,21,7. Picatura de cerneala,1. Ultima noapte de dragoste,13. Bad Romance,9. The Winner Takes It All,12. L'enfer,16. Dance Again,21. Inainte Sa Ne Fi Nascut,19. Limousine,6. Lush Life
+478,9,23,2. Ten Seconds to Love,12. L'enfer,3. Lav Stori,9. The Winner Takes It All,16. Dance Again,1. Ultima noapte de dragoste,8. High Hopes,23. Acele,22. Imperfect
+479,15,23,15. Let's Get Loud,12. L'enfer,9. The Winner Takes It All,23. Acele,1. Ultima noapte de dragoste,10. Love in Slow Motion,17. One Day,18. Crying in the Club,20. Caliente
+480,9,19,9. The Winner Takes It All,2. Ten Seconds to Love,1. Ultima noapte de dragoste,15. Let's Get Loud,13. Bad Romance,19. Limousine,17. One Day,14. Young and Beautiful,18. Crying in the Club
+481,14,23,23. Acele,9. The Winner Takes It All,21. Inainte Sa Ne Fi Nascut,17. One Day,16. Dance Again,18. Crying in the Club,13. Bad Romance,14. Young and Beautiful,10. Love in Slow Motion
+482,15,21,14. Young and Beautiful,10. Love in Slow Motion,16. Dance Again,21. Inainte Sa Ne Fi Nascut,9. The Winner Takes It All,20. Caliente,12. L'enfer,15. Let's Get Loud,17. One Day
+483,12,22,19. Limousine,16. Dance Again,11. K La Meteo,5. Titi Me Pregunto,14. Young and Beautiful,22. Imperfect,3. Lav Stori,12. L'enfer,7. Picatura de cerneala
+484,10,21,14. Young and Beautiful,11. K La Meteo,8. High Hopes,9. The Winner Takes It All,21. Inainte Sa Ne Fi Nascut,10. Love in Slow Motion,1. Ultima noapte de dragoste,17. One Day,3. Lav Stori
+485,14,23,7. Picatura de cerneala,6. Lush Life,14. Young and Beautiful,18. Crying in the Club,22. Imperfect,2. Ten Seconds to Love,21. Inainte Sa Ne Fi Nascut,16. Dance Again,23. Acele
+486,17,22,18. Crying in the Club,16. Dance Again,12. L'enfer,1. Ultima noapte de dragoste,7. Picatura de cerneala,22. Imperfect,14. Young and Beautiful,17. One Day,9. The Winner Takes It All
+487,5,21,3. Lav Stori,5. Titi Me Pregunto,18. Crying in the Club,21. Inainte Sa Ne Fi Nascut,4. Fire,6. Lush Life,10. Love in Slow Motion,2. Ten Seconds to Love,20. Caliente
+488,15,21,21. Inainte Sa Ne Fi Nascut,10. Love in Slow Motion,19. Limousine,16. Dance Again,8. High Hopes,13. Bad Romance,11. K La Meteo,15. Let's Get Loud,9. The Winner Takes It All
+489,11,23,20. Caliente,9. The Winner Takes It All,18. Crying in the Club,21. Inainte Sa Ne Fi Nascut,23. Acele,13. Bad Romance,10. Love in Slow Motion,11. K La Meteo,3. Lav Stori
+490,11,18,14. Young and Beautiful,3. Lav Stori,6. Lush Life,2. Ten Seconds to Love,9. The Winner Takes It All,18. Crying in the Club,5. Titi Me Pregunto,11. K La Meteo,13. Bad Romance
+491,20,23,8. High Hopes,14. Young and Beautiful,23. Acele,6. Lush Life,20. Caliente,12. L'enfer,22. Imperfect,19. Limousine,3. Lav Stori
+492,20,23,22. Imperfect,3. Lav Stori,9. The Winner Takes It All,21. Inainte Sa Ne Fi Nascut,1. Ultima noapte de dragoste,23. Acele,19. Limousine,20. Caliente,18. Crying in the Club
+493,10,22,13. Bad Romance,12. L'enfer,20. Caliente,15. Let's Get Loud,19. Limousine,22. Imperfect,10. Love in Slow Motion,4. Fire,2. Ten Seconds to Love
+494,9,23,2. Ten Seconds to Love,7. Picatura de cerneala,9. The Winner Takes It All,5. Titi Me Pregunto,16. Dance Again,23. Acele,11. K La Meteo,15. Let's Get Loud,20. Caliente
+495,9,23,23. Acele,11. K La Meteo,10. Love in Slow Motion,9. The Winner Takes It All,5. Titi Me Pregunto,4. Fire,12. L'enfer,22. Imperfect,7. Picatura de cerneala
+496,14,18,7. Picatura de cerneala,18. Crying in the Club,16. Dance Again,14. Young and Beautiful,2. Ten Seconds to Love,3. Lav Stori,15. Let's Get Loud,4. Fire,6. Lush Life
+497,15,20,13. Bad Romance,2. Ten Seconds to Love,15. Let's Get Loud,1. Ultima noapte de dragoste,19. Limousine,12. L'enfer,20. Caliente,10. Love in Slow Motion,7. Picatura de cerneala
+498,12,22,8. High Hopes,4. Fire,12. L'enfer,17. One Day,1. Ultima noapte de dragoste,10. Love in Slow Motion,2. Ten Seconds to Love,16. Dance Again,22. Imperfect
+499,14,20,6. Lush Life,2. Ten Seconds to Love,14. Young and Beautiful,20. Caliente,8. High Hopes,12. L'enfer,10. Love in Slow Motion,16. Dance Again,13. Bad Romance
+500,8,17,8. High Hopes,17. One Day,11. K La Meteo,6. Lush Life,13. Bad Romance,1. Ultima noapte de dragoste,5. Titi Me Pregunto,15. Let's Get Loud,9. The Winner Takes It All

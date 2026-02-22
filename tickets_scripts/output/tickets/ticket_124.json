@@ -1,0 +1,42 @@
+{
+  "id": 124,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    },
+    {
+      "title": "Ten Seconds to Love",
+      "artists": "Motley Crue"
+    },
+    {
+      "title": "Crying in the Club",
+      "artists": "Camila Cabello"
+    },
+    {
+      "title": "One Day",
+      "artists": "ARASH feat. Helena"
+    },
+    {
+      "title": "Inainte Sa Ne Fi Nascut",
+      "artists": "The Motans"
+    },
+    {
+      "title": "Limousine",
+      "artists": "Little Sis Nora"
+    },
+    {
+      "title": "Lav Stori",
+      "artists": "Fara Zahar"
+    },
+    {
+      "title": "Ultima noapte de dragoste",
+      "artists": "Calinacho"
+    },
+    {
+      "title": "Young and Beautiful",
+      "artists": "Lana Del Rey"
+    }
+  ]
+}

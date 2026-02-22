@@ -1,0 +1,42 @@
+{
+  "id": 13,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Love in Slow Motion",
+      "artists": "Ed Sheeran"
+    },
+    {
+      "title": "Young and Beautiful",
+      "artists": "Lana Del Rey"
+    },
+    {
+      "title": "One Day",
+      "artists": "ARASH feat. Helena"
+    },
+    {
+      "title": "Crying in the Club",
+      "artists": "Camila Cabello"
+    },
+    {
+      "title": "Dance Again",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "High Hopes",
+      "artists": "Panic! At The Disco"
+    },
+    {
+      "title": "Acele",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    },
+    {
+      "title": "Caliente",
+      "artists": "INNA"
+    }
+  ]
+}

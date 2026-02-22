@@ -1,0 +1,42 @@
+{
+  "id": 2,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Crying in the Club",
+      "artists": "Camila Cabello"
+    },
+    {
+      "title": "Dance Again",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "One Day",
+      "artists": "ARASH feat. Helena"
+    },
+    {
+      "title": "High Hopes",
+      "artists": "Panic! At The Disco"
+    },
+    {
+      "title": "Fire",
+      "artists": "BTS"
+    },
+    {
+      "title": "Inainte Sa Ne Fi Nascut",
+      "artists": "The Motans"
+    },
+    {
+      "title": "L'enfer",
+      "artists": "Stromae"
+    },
+    {
+      "title": "Imperfect",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    }
+  ]
+}

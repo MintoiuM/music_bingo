@@ -1,0 +1,42 @@
+{
+  "id": 203,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Titi Me Pregunto",
+      "artists": "Bad Bunny"
+    },
+    {
+      "title": "Young and Beautiful",
+      "artists": "Lana Del Rey"
+    },
+    {
+      "title": "Imperfect",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "Love in Slow Motion",
+      "artists": "Ed Sheeran"
+    },
+    {
+      "title": "Inainte Sa Ne Fi Nascut",
+      "artists": "The Motans"
+    },
+    {
+      "title": "Lush Life",
+      "artists": "Zara Larsson"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    },
+    {
+      "title": "One Day",
+      "artists": "ARASH feat. Helena"
+    },
+    {
+      "title": "Crying in the Club",
+      "artists": "Camila Cabello"
+    }
+  ]
+}

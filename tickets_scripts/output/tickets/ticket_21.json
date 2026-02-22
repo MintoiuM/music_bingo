@@ -1,0 +1,42 @@
+{
+  "id": 21,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Titi Me Pregunto",
+      "artists": "Bad Bunny"
+    },
+    {
+      "title": "Lav Stori",
+      "artists": "Fara Zahar"
+    },
+    {
+      "title": "Lush Life",
+      "artists": "Zara Larsson"
+    },
+    {
+      "title": "Young and Beautiful",
+      "artists": "Lana Del Rey"
+    },
+    {
+      "title": "Caliente",
+      "artists": "INNA"
+    },
+    {
+      "title": "Love in Slow Motion",
+      "artists": "Ed Sheeran"
+    },
+    {
+      "title": "K La Meteo",
+      "artists": "What's UP feat. Andra"
+    },
+    {
+      "title": "Imperfect",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "Crying in the Club",
+      "artists": "Camila Cabello"
+    }
+  ]
+}

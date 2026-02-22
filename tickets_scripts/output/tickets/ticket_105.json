@@ -1,0 +1,42 @@
+{
+  "id": 105,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Acele",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "Picatura de cerneala",
+      "artists": "Iuliana Beregoi x Cristian Porcari"
+    },
+    {
+      "title": "Lav Stori",
+      "artists": "Fara Zahar"
+    },
+    {
+      "title": "One Day",
+      "artists": "ARASH feat. Helena"
+    },
+    {
+      "title": "Bad Romance",
+      "artists": "Lady Gaga"
+    },
+    {
+      "title": "Lush Life",
+      "artists": "Zara Larsson"
+    },
+    {
+      "title": "Crying in the Club",
+      "artists": "Camila Cabello"
+    },
+    {
+      "title": "L'enfer",
+      "artists": "Stromae"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    }
+  ]
+}

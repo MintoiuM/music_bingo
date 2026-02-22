@@ -1,0 +1,42 @@
+{
+  "id": 5,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Caliente",
+      "artists": "INNA"
+    },
+    {
+      "title": "Imperfect",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "Crying in the Club",
+      "artists": "Camila Cabello"
+    },
+    {
+      "title": "Limousine",
+      "artists": "Little Sis Nora"
+    },
+    {
+      "title": "Fire",
+      "artists": "BTS"
+    },
+    {
+      "title": "Inainte Sa Ne Fi Nascut",
+      "artists": "The Motans"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    },
+    {
+      "title": "L'enfer",
+      "artists": "Stromae"
+    },
+    {
+      "title": "Ten Seconds to Love",
+      "artists": "Motley Crue"
+    }
+  ]
+}

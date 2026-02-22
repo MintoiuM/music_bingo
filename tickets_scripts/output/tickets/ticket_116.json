@@ -1,0 +1,42 @@
+{
+  "id": 116,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Crying in the Club",
+      "artists": "Camila Cabello"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    },
+    {
+      "title": "Fire",
+      "artists": "BTS"
+    },
+    {
+      "title": "Love in Slow Motion",
+      "artists": "Ed Sheeran"
+    },
+    {
+      "title": "One Day",
+      "artists": "ARASH feat. Helena"
+    },
+    {
+      "title": "Caliente",
+      "artists": "INNA"
+    },
+    {
+      "title": "Dance Again",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "L'enfer",
+      "artists": "Stromae"
+    },
+    {
+      "title": "Limousine",
+      "artists": "Little Sis Nora"
+    }
+  ]
+}

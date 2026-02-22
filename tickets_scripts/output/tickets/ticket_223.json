@@ -1,0 +1,42 @@
+{
+  "id": 223,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Young and Beautiful",
+      "artists": "Lana Del Rey"
+    },
+    {
+      "title": "K La Meteo",
+      "artists": "What's UP feat. Andra"
+    },
+    {
+      "title": "Inainte Sa Ne Fi Nascut",
+      "artists": "The Motans"
+    },
+    {
+      "title": "Lav Stori",
+      "artists": "Fara Zahar"
+    },
+    {
+      "title": "Imperfect",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "High Hopes",
+      "artists": "Panic! At The Disco"
+    },
+    {
+      "title": "Fire",
+      "artists": "BTS"
+    },
+    {
+      "title": "Bad Romance",
+      "artists": "Lady Gaga"
+    },
+    {
+      "title": "Crying in the Club",
+      "artists": "Camila Cabello"
+    }
+  ]
+}

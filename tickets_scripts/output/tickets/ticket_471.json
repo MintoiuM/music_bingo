@@ -1,0 +1,42 @@
+{
+  "id": 471,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "L'enfer",
+      "artists": "Stromae"
+    },
+    {
+      "title": "Love in Slow Motion",
+      "artists": "Ed Sheeran"
+    },
+    {
+      "title": "Dance Again",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "Bad Romance",
+      "artists": "Lady Gaga"
+    },
+    {
+      "title": "Ten Seconds to Love",
+      "artists": "Motley Crue"
+    },
+    {
+      "title": "Young and Beautiful",
+      "artists": "Lana Del Rey"
+    },
+    {
+      "title": "Ultima noapte de dragoste",
+      "artists": "Calinacho"
+    },
+    {
+      "title": "High Hopes",
+      "artists": "Panic! At The Disco"
+    },
+    {
+      "title": "Limousine",
+      "artists": "Little Sis Nora"
+    }
+  ]
+}

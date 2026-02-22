@@ -1,0 +1,42 @@
+{
+  "id": 244,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Ten Seconds to Love",
+      "artists": "Motley Crue"
+    },
+    {
+      "title": "Let's Get Loud",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "One Day",
+      "artists": "ARASH feat. Helena"
+    },
+    {
+      "title": "Fire",
+      "artists": "BTS"
+    },
+    {
+      "title": "Lush Life",
+      "artists": "Zara Larsson"
+    },
+    {
+      "title": "Love in Slow Motion",
+      "artists": "Ed Sheeran"
+    },
+    {
+      "title": "High Hopes",
+      "artists": "Panic! At The Disco"
+    },
+    {
+      "title": "Inainte Sa Ne Fi Nascut",
+      "artists": "The Motans"
+    },
+    {
+      "title": "L'enfer",
+      "artists": "Stromae"
+    }
+  ]
+}

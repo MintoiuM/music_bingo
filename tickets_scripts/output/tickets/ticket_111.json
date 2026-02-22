@@ -1,0 +1,42 @@
+{
+  "id": 111,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Caliente",
+      "artists": "INNA"
+    },
+    {
+      "title": "Bad Romance",
+      "artists": "Lady Gaga"
+    },
+    {
+      "title": "Lav Stori",
+      "artists": "Fara Zahar"
+    },
+    {
+      "title": "Limousine",
+      "artists": "Little Sis Nora"
+    },
+    {
+      "title": "Let's Get Loud",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "Dance Again",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "Ultima noapte de dragoste",
+      "artists": "Calinacho"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    },
+    {
+      "title": "Titi Me Pregunto",
+      "artists": "Bad Bunny"
+    }
+  ]
+}

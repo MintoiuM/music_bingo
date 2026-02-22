@@ -1,0 +1,42 @@
+{
+  "id": 33,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Lav Stori",
+      "artists": "Fara Zahar"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    },
+    {
+      "title": "Titi Me Pregunto",
+      "artists": "Bad Bunny"
+    },
+    {
+      "title": "Crying in the Club",
+      "artists": "Camila Cabello"
+    },
+    {
+      "title": "Acele",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "Let's Get Loud",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "Bad Romance",
+      "artists": "Lady Gaga"
+    },
+    {
+      "title": "Ten Seconds to Love",
+      "artists": "Motley Crue"
+    },
+    {
+      "title": "Dance Again",
+      "artists": "Jennifer Lopez"
+    }
+  ]
+}

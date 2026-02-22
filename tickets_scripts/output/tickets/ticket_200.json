@@ -1,0 +1,42 @@
+{
+  "id": 200,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Ten Seconds to Love",
+      "artists": "Motley Crue"
+    },
+    {
+      "title": "L'enfer",
+      "artists": "Stromae"
+    },
+    {
+      "title": "Limousine",
+      "artists": "Little Sis Nora"
+    },
+    {
+      "title": "Bad Romance",
+      "artists": "Lady Gaga"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    },
+    {
+      "title": "Lav Stori",
+      "artists": "Fara Zahar"
+    },
+    {
+      "title": "Caliente",
+      "artists": "INNA"
+    },
+    {
+      "title": "Picatura de cerneala",
+      "artists": "Iuliana Beregoi x Cristian Porcari"
+    },
+    {
+      "title": "One Day",
+      "artists": "ARASH feat. Helena"
+    }
+  ]
+}

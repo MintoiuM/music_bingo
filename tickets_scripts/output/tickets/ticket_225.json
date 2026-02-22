@@ -1,0 +1,42 @@
+{
+  "id": 225,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Crying in the Club",
+      "artists": "Camila Cabello"
+    },
+    {
+      "title": "Dance Again",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "Picatura de cerneala",
+      "artists": "Iuliana Beregoi x Cristian Porcari"
+    },
+    {
+      "title": "Imperfect",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "K La Meteo",
+      "artists": "What's UP feat. Andra"
+    },
+    {
+      "title": "Lush Life",
+      "artists": "Zara Larsson"
+    },
+    {
+      "title": "Fire",
+      "artists": "BTS"
+    },
+    {
+      "title": "Love in Slow Motion",
+      "artists": "Ed Sheeran"
+    },
+    {
+      "title": "Bad Romance",
+      "artists": "Lady Gaga"
+    }
+  ]
+}

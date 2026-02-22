@@ -1,0 +1,42 @@
+{
+  "id": 74,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "L'enfer",
+      "artists": "Stromae"
+    },
+    {
+      "title": "Fire",
+      "artists": "BTS"
+    },
+    {
+      "title": "Love in Slow Motion",
+      "artists": "Ed Sheeran"
+    },
+    {
+      "title": "Dance Again",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "K La Meteo",
+      "artists": "What's UP feat. Andra"
+    },
+    {
+      "title": "Acele",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    },
+    {
+      "title": "Caliente",
+      "artists": "INNA"
+    },
+    {
+      "title": "Lush Life",
+      "artists": "Zara Larsson"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 357,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Acele",
+      "artists": "Carla's Dreams"
+    },
+    {
+      "title": "Lav Stori",
+      "artists": "Fara Zahar"
+    },
+    {
+      "title": "Caliente",
+      "artists": "INNA"
+    },
+    {
+      "title": "Fire",
+      "artists": "BTS"
+    },
+    {
+      "title": "Love in Slow Motion",
+      "artists": "Ed Sheeran"
+    },
+    {
+      "title": "Lush Life",
+      "artists": "Zara Larsson"
+    },
+    {
+      "title": "L'enfer",
+      "artists": "Stromae"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    },
+    {
+      "title": "Bad Romance",
+      "artists": "Lady Gaga"
+    }
+  ]
+}

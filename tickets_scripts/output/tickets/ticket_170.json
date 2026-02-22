@@ -1,0 +1,42 @@
+{
+  "id": 170,
+  "round_name": "AUDIENCE CHOICE",
+  "songs": [
+    {
+      "title": "Fire",
+      "artists": "BTS"
+    },
+    {
+      "title": "The Winner Takes It All",
+      "artists": "ABBA"
+    },
+    {
+      "title": "K La Meteo",
+      "artists": "What's UP feat. Andra"
+    },
+    {
+      "title": "Ten Seconds to Love",
+      "artists": "Motley Crue"
+    },
+    {
+      "title": "L'enfer",
+      "artists": "Stromae"
+    },
+    {
+      "title": "Dance Again",
+      "artists": "Jennifer Lopez"
+    },
+    {
+      "title": "Titi Me Pregunto",
+      "artists": "Bad Bunny"
+    },
+    {
+      "title": "Lav Stori",
+      "artists": "Fara Zahar"
+    },
+    {
+      "title": "High Hopes",
+      "artists": "Panic! At The Disco"
+    }
+  ]
+}

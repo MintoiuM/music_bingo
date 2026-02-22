@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Bingo Tickets</title>
+  <style>
+    @page { size: A4; margin: 1cm; }
+    body {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(2, 1fr);
+      gap: 1cm;
+      height: 100%;
+      width: 100%;
+      font-family: Arial, sans-serif;
+    }
+    .ticket {
+      border: 2px solid #333;
+      border-radius: 12px;
+      padding: 12px;
+      background: #fff url('./biletMB.png') no-repeat center/contain;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      page-break-inside: avoid;
+    }
+    h2 {
+      text-align: center;
+      font-size: 1.1rem;
+      margin-bottom: 0.5rem;
+    }
+    ul {
+      list-style: none;
+      padding-left: 0;
+      font-size: 0.9rem;
+    }
+    li {
+      margin-bottom: 3px;
+    }
+  </style>
+</head>
+<body>
+  {{CONTENT}}
+</body>
+</html>

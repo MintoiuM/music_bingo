@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Bingo Leaderboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Arial', sans-serif;
+            background: url('/static/leaderboard-bg.png') repeat;
+            background-color: #5c2d2d;
+            min-height: 100vh;
+            margin: 0;
+            overflow: hidden;
+        }
+        
+        .stage-wrapper {
+            position: fixed;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            padding: 0;
+        }
+
+        /* Fixed 1920x1080 stage; scaled down if viewport smaller */
+        .stage {
+            width: 1920px;
+            height: 1080px;
+            box-sizing: border-box;
+            padding: 180px 90px 70px;
+            background: transparent;
+            transform: scale(var(--stage-scale, 1));
+            transform-origin: center;
+        }
+        
+        .leaderboard-two-cols {
+            display: flex;
+            justify-content: center;
+            gap: 48px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .leaderboard-two-cols .leaderboard-list {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .leaderboard-list {
+            list-style: none;
+        }
+
+        .podium {
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            gap: 24px;
+            margin-bottom: 30px;
+            max-width: 1400px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .podium-card {
+            flex: 0 0 auto;
+            width: 300px;
+            height: 300px;
+            min-width: 0;
+            border-radius: 50%;
+            padding: 0;
+            text-align: center;
+            background: radial-gradient(circle at 30% 30%, #3a3a3a, #1a1a1a 40%, #0a0a0a 70%),
+                        repeating-radial-gradient(circle at center, transparent 0, transparent 4px, rgba(255,255,255,0.02) 4px, rgba(255,255,255,0.02) 6px);
+            box-shadow: 0 12px 32px rgba(0,0,0,0.5), inset 0 2px 8px rgba(255,255,255,0.06);
+            border: 2px solid #111;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .podium-card::before {
+            content: "";
+            position: absolute;
+            width: 52%;
+            height: 52%;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            border-radius: 50%;
+            border: 4px solid #222;
+            box-shadow: inset 0 2px 8px rgba(0,0,0,0.3);
+            pointer-events: none;
+            z-index: 2;
+        }
+
+        .vinyl-name-svg {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        .vinyl-name-text {
+            fill: rgba(255, 255, 255, 0.95);
+            font-size: 14px;
+            font-weight: 900;
+            font-family: Arial, sans-serif;
+            text-shadow: 0 1px 2px rgba(0,0,0,0.5);
+        }
+
+        .podium-card.place-1 .vinyl-name-text { font-size: 18px; }
+        .podium-card.place-2 .vinyl-name-text { font-size: 16px; }
+        .podium-card.place-3 .vinyl-name-text { font-size: 14px; }
+
+        .vinyl-label {
+            position: absolute;
+            width: 52%;
+            height: 52%;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            border-radius: 50%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 2px;
+            z-index: 3;
+        }
+
+        .podium-card::after {
+            content: "";
+            position: absolute;
+            width: 12%;
+            height: 12%;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            border-radius: 50%;
+            background: #111;
+            box-shadow: inset 0 2px 4px rgba(255,255,255,0.1);
+            pointer-events: none;
+            z-index: 4;
+        }
+
+        /* subtle “podium base” to make it feel natural */
+        .podium-rank {
+            font-weight: 900;
+            font-size: 2.2em;
+            line-height: 1;
+            margin-bottom: 10px;
+            text-shadow: 0 1px 0 rgba(255,255,255,0.35);
+        }
+
+        .vinyl-label .podium-rank {
+            font-size: 2em;
+            line-height: 1;
+            color: #111;
+            text-shadow: 0 1px 0 rgba(255,255,255,0.4);
+            margin-top: -16px;
+        }
+
+        .vinyl-label .podium-tickets {
+            font-weight: 800;
+            color: #222;
+            font-size: 1.15em;
+            margin-top: 44px;
+        }
+
+        .podium-card.place-1 .vinyl-label .podium-rank { font-size: 2.4em; }
+        .podium-card.place-1 .vinyl-label .podium-tickets { font-size: 1.35em; margin-top: 48px; }
+
+        .podium-card.place-1 {
+            width: 360px;
+            height: 360px;
+        }
+
+        .podium-card.place-1::before {
+            background: linear-gradient(145deg, #ffed4e 0%, #ffd700 50%, #daa520 100%);
+        }
+
+        .podium-card.place-2 {
+            width: 320px;
+            height: 320px;
+        }
+
+        .podium-card.place-2::before {
+            background: linear-gradient(145deg, #eee 0%, #c0c0c0 50%, #a0a0a0 100%);
+        }
+
+        .podium-card.place-3 {
+            width: 300px;
+            height: 300px;
+        }
+
+        .podium-card.place-3::before {
+            background: linear-gradient(145deg, #e6a85c 0%, #cd7f32 50%, #8b4513 100%);
+        }
+
+        .rest-header {
+            margin-top: 10px;
+            margin-bottom: 10px;
+            font-weight: 800;
+            color: #333;
+            font-size: 1.1em;
+        }
+        
+        .leaderboard-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+            margin: 10px 0;
+            background: #f8f9fa;
+            border-radius: 10px;
+            border-left: 5px solid #667eea;
+            font-size: 1.3em;
+            transition: transform 0.2s;
+        }
+        
+        .leaderboard-item:hover {
+            transform: translateX(5px);
+        }
+        
+        .leaderboard-item.rank-1 {
+            background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
+            border-left-color: #ff8c00;
+            font-weight: bold;
+        }
+        
+        .leaderboard-item.rank-2 {
+            background: linear-gradient(135deg, #c0c0c0 0%, #e8e8e8 100%);
+            border-left-color: #808080;
+        }
+        
+        .leaderboard-item.rank-3 {
+            background: linear-gradient(135deg, #cd7f32 0%, #e6a85c 100%);
+            border-left-color: #8b4513;
+        }
+
+        .leaderboard-item.rest {
+            font-size: 1.15em;
+            padding: 12px 16px;
+            margin: 8px 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 22px;
+            text-align: center;
+            background: rgba(0, 0, 0, 0.25);
+            border-radius: 8px;
+            border-left: none;
+            box-shadow: none;
+            color: rgba(255, 255, 255, 0.95);
+            text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+        }
+
+        .leaderboard-position {
+            display: inline-block;
+            min-width: 32px;
+            font-weight: 900;
+            color: inherit;
+        }
+
+        /* 4+ rows are centered as a single line */
+        
+        .team-name {
+            font-weight: 600;
+            color: inherit;
+        }
+
+        .leaderboard-item.rest .team-name {
+            font-size: 1.4em;
+        }
+        
+        .team-tickets {
+            color: #667eea;
+            font-weight: bold;
+        }
+        
+        .empty-state {
+            text-align: center;
+            color: #666;
+            padding: 40px;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="stage-wrapper">
+        <div class="stage">
+            {% if teams %}
+            {% set place_by_index = {0: 1, 1: 2, 2: 3} %}
+            {% set podium_order = [1, 0, 2] %}
+
+            <div class="podium">
+                {% for idx in podium_order %}
+                    {% if teams|length > idx %}
+                        {% set place = place_by_index[idx] %}
+                        <div class="podium-card place-{{ place }}">
+                            <svg class="vinyl-name-svg" viewBox="0 0 200 200" aria-hidden="true">
+                                <defs>
+                                    <path id="vinyl-path-{{ place }}" pathLength="100" d="M 28,100 A 72,72 0 0 1 100,28 A 72,72 0 0 1 172,100" />
+                                </defs>
+                                <text class="vinyl-name-text">
+                                    <textPath href="#vinyl-path-{{ place }}" startOffset="50" text-anchor="middle">{{ teams[idx].name }}</textPath>
+                                </text>
+                            </svg>
+                            <div class="vinyl-label">
+                                <span class="podium-rank">{{ place }}</span>
+                                <span class="podium-tickets">{{ teams[idx].total_tickets }} ticket{{ 's' if teams[idx].total_tickets != 1 else '' }}</span>
+                            </div>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+
+            {% if teams|length > 3 %}
+            {% set left_count = ((teams|length - 2) / 2)|int %}
+            <div class="leaderboard-two-cols">
+                <ul class="leaderboard-list">
+                    {% for team in teams[3:3 + left_count] %}
+                    <li class="leaderboard-item rest">
+                        <span class="leaderboard-position">{{ 3 + loop.index }}.</span>
+                        <span class="team-name">{{ team.name }}</span>
+                        <span class="team-tickets">{{ team.total_tickets }}</span>
+                    </li>
+                    {% endfor %}
+                </ul>
+                <ul class="leaderboard-list">
+                    {% for team in teams[3 + left_count:] %}
+                    <li class="leaderboard-item rest">
+                        <span class="leaderboard-position">{{ 3 + left_count + loop.index }}.</span>
+                        <span class="team-name">{{ team.name }}</span>
+                        <span class="team-tickets">{{ team.total_tickets }}</span>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+            {% else %}
+            <div class="empty-state">
+                No teams yet. Add teams from the admin panel!
+            </div>
+            {% endif %}
+        </div>
+    </div>
+
+    <script>
+        function fitTextToBox(el, { maxPx, minPx, paddingPx = 0 } = {}) {
+            if (!el) return;
+
+            const parent = el.parentElement;
+            if (!parent) return;
+
+            // Available space for the text block inside its flex area
+            const maxWidth = el.clientWidth - paddingPx * 2;
+            const maxHeight = el.clientHeight - paddingPx * 2;
+            if (maxWidth <= 0 || maxHeight <= 0) return;
+
+            const clamp = (n, a, b) => Math.max(a, Math.min(b, n));
+            let lo = minPx;
+            let hi = maxPx;
+            let best = minPx;
+
+            // Binary search best font-size that fits
+            for (let i = 0; i < 12; i++) {
+                const mid = Math.floor((lo + hi) / 2);
+                el.style.fontSize = `${mid}px`;
+                // Force layout read
+                const fits = el.scrollWidth <= maxWidth && el.scrollHeight <= maxHeight;
+                if (fits) {
+                    best = mid;
+                    lo = mid + 1;
+                } else {
+                    hi = mid - 1;
+                }
+            }
+
+            el.style.fontSize = `${clamp(best, minPx, maxPx)}px`;
+        }
+
+        function fitAllPodiumNames() {
+            document.querySelectorAll('.podium-card').forEach((card) => {
+                const nameEl = card.querySelector('.podium-name');
+                if (!nameEl) return;
+                const isFirst = card.classList.contains('place-1');
+                fitTextToBox(nameEl, {
+                    maxPx: isFirst ? 56 : 42,
+                    minPx: isFirst ? 14 : 12,
+                    paddingPx: 0,
+                });
+            });
+        }
+
+        function setStageScale() {
+            const baseW = 1920;
+            const baseH = 1080;
+            const scale = Math.min(window.innerWidth / baseW, window.innerHeight / baseH);
+            // Never upscale above 1.0; just fit down if needed.
+            const finalScale = Math.min(1, scale);
+            document.documentElement.style.setProperty('--stage-scale', String(finalScale));
+        }
+
+        // Auto-refresh every 2 seconds for live updates
+        setInterval(function() {
+            fetch('/api/teams')
+                .then(response => response.json())
+                .then(data => {
+                    // Only reload if data changed
+                    location.reload();
+                })
+                .catch(error => console.error('Error:', error));
+        }, 2000);
+
+        // Scale podium names to fit their cards (container stays fixed)
+        window.addEventListener('load', fitAllPodiumNames);
+        window.addEventListener('resize', fitAllPodiumNames);
+
+        // Fit fixed 1920x1080 stage in any window
+        window.addEventListener('load', setStageScale);
+        window.addEventListener('resize', setStageScale);
+    </script>
+</body>
+</html>
