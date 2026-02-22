@@ -192,4 +192,5 @@ create_slides_from_song_triples(songs, "output/event.pptx", audio_dir=Path("outp
 **Email Rotaract:** marius.mintoiu@rotaract.ro  
 **Email Personal:** mintoiu.marius3012@gmail.com  
 
-No copyright, free to use for any rotaract club. If help is needed contact me!
+No copyright, free to use for any rotaract club. 
+If help is needed contact me!

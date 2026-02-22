@@ -51,4 +51,10 @@ For details, requirements, and commands, see the README in each folder.
 ---
 
 **Author:** Mintoiu Marius - Flaviu  
-No copyright; free to use for any Rotaract club. If you need help, get in touch via the contact details in the READMEs inside each folder.
+**LinkedIn:** www.linkedin.com/in/marius-mintoiu  
+**GitHub:** https://github.com/MintoiuM  
+**Email Rotaract:** marius.mintoiu@rotaract.ro  
+**Email Personal:** mintoiu.marius3012@gmail.com  
+
+No copyright, free to use for any rotaract club. 
+If help is needed contact me!

@@ -158,4 +158,5 @@ If the file is missing, the script will still run and use a blank background.
 **Email Rotaract:** marius.mintoiu@rotaract.ro  
 **Email Personal:** mintoiu.marius3012@gmail.com  
 
-No copyright, free to use for any rotaract club. If help is needed contact me!
+No copyright, free to use for any rotaract club. 
+If help is needed contact me!
